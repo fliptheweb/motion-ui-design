@@ -1,5 +1,5 @@
 # Motion UI design. Web UI animations and transitions.
-It’s collection of resources, software, libraries, slides and articles relative to motion UI design.
+It’s collection of resources, software, libraries, slides and articles related to motion UI design.
 
 ## Resources for inspiration
 ### Sites
@@ -25,7 +25,7 @@ It’s collection of resources, software, libraries, slides and articles relativ
 * http://pinterest.com/julient/animated-uxui/
 * http://pinterest.com/CodeDesignIO/motion-ui/
 
-### Processing and other wierd, but funny stuff
+### Processing and other weird, but funny stuff
 * http://beesandbombs.tumblr.com/
 * http://patakk.tumblr.com/
 * http://dvdp.tumblr.com/
@@ -34,27 +34,27 @@ It’s collection of resources, software, libraries, slides and articles relativ
 ## Software for creation
 ### Video, gif
 * Adobe After Effect
-** Using After Effects for UI Animation Prototypes https://www.youtube.com/watch?v=w67z1YhPFKM&feature=youtu.be
-** http://webdesign.tutsplus.com/tutorials/how-to-use-after-effects-for-web-animation-prototypes--cms-21451
-** http://mtmograph.com/summits/
-** Lynda essentional AE
-** http://schoolofmotion.com/project/30dae_01_writeon/
+  * Using After Effects for UI Animation Prototypes https://www.youtube.com/watch?v=w67z1YhPFKM&feature=youtu.be
+  * http://webdesign.tutsplus.com/tutorials/how-to-use-after-effects-for-web-animation-prototypes--cms-21451
+  * http://mtmograph.com/summits/
+  * Lynda essentional AE
+  * http://schoolofmotion.com/project/30dae_01_writeon/
 * Apple Motion
 * Adobe Photoshop
-** http://bashooka.com/photoshop/photoshop-ui-animation-tutorials/
+  * http://bashooka.com/photoshop/photoshop-ui-animation-tutorials/
 * Adobe Flash
 
 ### Visual programming
 * Quartz Composer
-** https://medium.com/the-year-of-the-looking-glass/introducing-origami-for-quartz-composer-f1173d0bd181
-** https://vimeo.com/88468610
-** https://facebook.github.io/origami/
-** https://labs.ideo.com/2014/05/27/avocado/
+  * https://medium.com/the-year-of-the-looking-glass/introducing-origami-for-quartz-composer-f1173d0bd181
+  * https://vimeo.com/88468610
+  * https://facebook.github.io/origami/
+  * https://labs.ideo.com/2014/05/27/avocado/
 * Form http://www.relativewave.com/form/
 
 ### Html/css/js
 * Framer.js
-** https://medium.com/@kennycheny/creating-your-first-prototype-with-framer-c39221da7668
+  * https://medium.com/@kennycheny/creating-your-first-prototype-with-framer-c39221da7668
 * Tumult Hype 2
 * Adobe Edge Animation
 * Google web designer http://www.google.ru/webdesigner/ 
