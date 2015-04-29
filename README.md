@@ -111,4 +111,5 @@ http://blog.teamtreehouse.com/create-smoother-animations-transitions-browser
 * Animating Web Experiences https://www.youtube.com/watch?v=66Kf8fMfh1M&list=UURx1y52pfeMwbuer9Vh2u-A&index=47
 
 ## Books
+* The Web In Motion: Practical Considerations For Designing With Animation https://shop.smashingmagazine.com/products/the-web-in-motion-practical-considerations-for-designing-with-animation
 * Motion Design for iOS https://designthencode.com/
