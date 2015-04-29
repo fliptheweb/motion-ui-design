@@ -1,4 +1,6 @@
-# Motion UI design. Web UI animations and transitions. 
+# Motion UI design. Web UI animations and transitions.
+It’s collection of resources, software, libraries, slides and articles relative to motion UI design.
+
 ## Resources for inspiration
 ### Sites
 * http://tympanus.net/codrops/
@@ -6,15 +8,15 @@
 * http://dribbble.com/shots?list=animated
 * http://codepen.io/
 * http://give-n-go.co/
-* http://sixux.com/ 
-* http://hoverstat.es/  
-* http://ui-animations.tumblr.com/  
-* http://capptivate.co/ 
+* http://capptivate.co/
+* http://hoverstat.es/
 * http://useyourinterface.com/
-* http://michaelvillar.com/motion/
 * http://awwwards.com/websites/animation/
 * http://cssanimation.rocks/
+* http://michaelvillar.com/motion/
 * http://lab.hakim.se/
+* http://ui-animations.tumblr.com/
+* http://sixux.com/
 
 ### Pinterest boards
 * http://pinterest.com/jvetrau/gestures-transitions-animations/
@@ -23,28 +25,24 @@
 * http://pinterest.com/julient/animated-uxui/
 * http://pinterest.com/CodeDesignIO/motion-ui/
 
-### Processing, c4d
+### Processing and other wierd, but funny stuff
 * http://beesandbombs.tumblr.com/
 * http://patakk.tumblr.com/
 * http://dvdp.tumblr.com/
 * http://misha-kvakin.tumblr.com/
 
 ## Software for creation
-### For video
+### Video, gif
 * Adobe After Effect
 ** Using After Effects for UI Animation Prototypes https://www.youtube.com/watch?v=w67z1YhPFKM&feature=youtu.be
 ** http://webdesign.tutsplus.com/tutorials/how-to-use-after-effects-for-web-animation-prototypes--cms-21451
-** http://www.mtmograph.com/summits/
+** http://mtmograph.com/summits/
 ** Lynda essentional AE
-** http://www.schoolofmotion.com/project/30dae_01_writeon/
+** http://schoolofmotion.com/project/30dae_01_writeon/
 * Apple Motion
 * Adobe Photoshop
+** http://bashooka.com/photoshop/photoshop-ui-animation-tutorials/
 * Adobe Flash
-* Tumult Hype 2
-* Adobe Edge Animation
-* Google web designer http://www.google.ru/webdesigner/ 
-* animatron.com
-* http://www.pixate.com/
 
 ### Visual programming
 * Quartz Composer
@@ -54,9 +52,14 @@
 ** https://labs.ideo.com/2014/05/27/avocado/
 * Form http://www.relativewave.com/form/
 
-### Programming
+### Html/css/js
 * Framer.js
 ** https://medium.com/@kennycheny/creating-your-first-prototype-with-framer-c39221da7668
+* Tumult Hype 2
+* Adobe Edge Animation
+* Google web designer http://www.google.ru/webdesigner/ 
+* http://animatron.com/
+* http://pixate.com/
 * Any HTML/CSS editor, libraries ;)
 
 And obvious Pen and Paper!
@@ -83,6 +86,7 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * http://daniel-lundin.github.io/snabbt.js/
 * http://bouncejs.com/
 * http://famo.us/
+* http://processingjs.org/
 
 ### SVG
 * http://snapsvg.io/
@@ -91,13 +95,13 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * http://maxwellito.github.io/vivus/
 * http://connoratherton.com/walkway
 
-# Web animation performance
+## Web animation performance
 * High performance animations http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/
 * How to Create Smoother Animations and Transitions in the Browser
 http://blog.teamtreehouse.com/create-smoother-animations-transitions-browser
 * CSS animations and transitions performance: looking inside the browser http://blogs.adobe.com/webplatform/2014/03/18/css-animations-and-transitions-performance/
 
-# Speeches, presentations, slides
+## Speeches, presentations, slides
 * http://markgeyer.com/pres/interface-animations/
 * http://markgeyer.com/pres/the-art-of-ui-animations/
 * http://ai.github.io/anim2012/ (RU)
@@ -106,5 +110,5 @@ http://blog.teamtreehouse.com/create-smoother-animations-transitions-browser
 * Designing with animation https://www.youtube.com/watch?v=TMe0WnkF1Lc&feature=youtu.be&list=UURx1y52pfeMwbuer9Vh2u-A&html5=1
 * Animating Web Experiences https://www.youtube.com/watch?v=66Kf8fMfh1M&list=UURx1y52pfeMwbuer9Vh2u-A&index=47
 
-# Books
+## Books
 * Motion Design for iOS https://designthencode.com/
