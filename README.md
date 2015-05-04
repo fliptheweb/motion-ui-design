@@ -33,33 +33,33 @@ It’s collection of resources, software, libraries, slides and articles related
 
 ## Software for creation
 ### Video, gif
-* Adobe After Effects
-  * Using After Effects for UI Animation Prototypes https://www.youtube.com/watch?v=w67z1YhPFKM&feature=youtu.be
-  * http://webdesign.tutsplus.com/tutorials/how-to-use-after-effects-for-web-animation-prototypes--cms-21451
-  * http://mtmograph.com/summits/
-  * Lynda essentional AE
-  * http://schoolofmotion.com/project/30dae_01_writeon/
-* Apple Motion
-* Adobe Photoshop
-  * http://bashooka.com/photoshop/photoshop-ui-animation-tutorials/
-* Adobe Flash
+* [Adobe After Effects](https://www.adobe.com/products/aftereffects.htm)
+  * [Using After Effects for UI Animation Prototypes](https://www.youtube.com/watch?v=w67z1YhPFKM&feature=youtu.be) (video)
+  * [How to Use After Effects for Web Animation Prototypes](http://webdesign.tutsplus.com/tutorials/how-to-use-after-effects-for-web-animation-prototypes--cms-21451)
+  * [MtMograph summits](http://mtmograph.com/summits/) (video)
+  * Lynda essentional AE (video)
+  * [30 days of AE](http://schoolofmotion.com/project/30dae_01_writeon/)
+* [Apple Motion](https://www.apple.com/sg/final-cut-pro/motion/)
+* [Adobe Photoshop](http://www.adobe.com/sea/products/photoshop.html)
+  * [9 Photoshop UI Animation Tutorials](http://bashooka.com/photoshop/photoshop-ui-animation-tutorials/)
+* [Adobe Flash](http://www.adobe.com/products/flash.html)
 
 ### Visual programming
 * Quartz Composer
-  * https://medium.com/the-year-of-the-looking-glass/introducing-origami-for-quartz-composer-f1173d0bd181
-  * https://vimeo.com/88468610
-  * https://facebook.github.io/origami/
-  * https://labs.ideo.com/2014/05/27/avocado/
-* Form http://www.relativewave.com/form/
+  * [The 4 Minute Guide to Quartz Composer](https://vimeo.com/88468610)
+  * [Introducing Origami for QC](https://medium.com/the-year-of-the-looking-glass/introducing-origami-for-quartz-composer-f1173d0bd181)
+  * [Origami](https://facebook.github.io/origami/)
+  * [Avocado](https://labs.ideo.com/2014/05/27/avocado/)
+* [Form](http://www.relativewave.com/form/)
 
 ### Html/css/js
-* Framer.js
-  * https://medium.com/@kennycheny/creating-your-first-prototype-with-framer-c39221da7668
-* Tumult Hype 2
-* Adobe Edge Animation
-* Google web designer http://www.google.ru/webdesigner/ 
-* http://animatron.com/
-* http://pixate.com/
+* [Framer studio](https://framerjs.com/)
+  * [Your first prototype with framer](https://medium.com/@kennycheny/creating-your-first-prototype-with-framer-c39221da7668)
+* [Tumult Hype](http://tumult.com/hype/)
+* [Adobe Edge Animation](https://creative.adobe.com/products/animate)
+* [Google web designer](http://www.google.ru/webdesigner/)
+* [Animatron](http://animatron.com/)
+* [Pixate](http://pixate.com/)
 * Any HTML/CSS editor, libraries ;)
 
 And obvious Pen and Paper!
@@ -68,6 +68,7 @@ And obvious Pen and Paper!
 * http://easings.net/
 * http://cubic-bezier.com/
 * http://csstriggers.com/
+* http://rapid-application-development-js.github.io/AnimateTransition/
 
 ## Libraries
 Great (but old a little) infographic with libraries by used technology 
@@ -87,6 +88,7 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [Bounce.js](http://bouncejs.com/)
 * [Famo.us](http://famo.us/)
 * [Processing.js](http://processingjs.org/)
+* [Framer.js](https://github.com/koenbok/Framer)
 
 ### SVG
 * [SnapSVG](http://snapsvg.io/)
@@ -97,10 +99,9 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 
 ## Web animation performance
 * [Jankfree.org](http://jankfree.org/) – collection of articles and presentations about browser performance.
-* High performance animations http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/
-* How to Create Smoother Animations and Transitions in the Browser
-http://blog.teamtreehouse.com/create-smoother-animations-transitions-browser
-* CSS animations and transitions performance: looking inside the browser http://blogs.adobe.com/webplatform/2014/03/18/css-animations-and-transitions-performance/
+* [High performance animations](http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
+* [How to Create Smoother Animations and Transitions in the Browser](http://blog.teamtreehouse.com/create-smoother-animations-transitions-browser)
+* [CSS animations and transitions performance: looking inside the browser](http://blogs.adobe.com/webplatform/2014/03/18/css-animations-and-transitions-performance/)
 
 ## Speeches, presentations, slides
 * http://markgeyer.com/pres/interface-animations/
@@ -108,8 +109,8 @@ http://blog.teamtreehouse.com/create-smoother-animations-transitions-browser
 * http://ai.github.io/anim2012/ (RU)
 * http://profyclub.ru/docs/188 (RU)
 * http://www.slideshare.net/CrowChick/animation-and-the-future-of-ux-33573726
-* Designing with animation https://www.youtube.com/watch?v=TMe0WnkF1Lc&feature=youtu.be&list=UURx1y52pfeMwbuer9Vh2u-A&html5=1
-* Animating Web Experiences https://www.youtube.com/watch?v=66Kf8fMfh1M&list=UURx1y52pfeMwbuer9Vh2u-A&index=47
+* [Designing with animation](https://www.youtube.com/watch?v=TMe0WnkF1Lc&feature=youtu.be&list=UURx1y52pfeMwbuer9Vh2u-A&html5=1) (video)
+* [Animating Web Experiences](https://www.youtube.com/watch?v=66Kf8fMfh1M&list=UURx1y52pfeMwbuer9Vh2u-A&index=47) (video)
 
 ## Books
 * [The Web In Motion: Practical Considerations For Designing With Animation](https://shop.smashingmagazine.com/products/the-web-in-motion-practical-considerations-for-designing-with-animation)
