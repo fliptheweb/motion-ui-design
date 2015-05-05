@@ -35,10 +35,10 @@ It’s collection of resources, software, libraries, slides and articles related
 ### Video, gif
 * [Adobe After Effects](https://www.adobe.com/products/aftereffects.htm)
   * [Using After Effects for UI Animation Prototypes](https://www.youtube.com/watch?v=w67z1YhPFKM&feature=youtu.be) (video)
-  * [How to Use After Effects for Web Animation Prototypes](http://webdesign.tutsplus.com/tutorials/how-to-use-after-effects-for-web-animation-prototypes--cms-21451)
+  * [How to Use After Effects for Web Animation Prototypes](http://webdesign.tutsplus.com/tutorials/how-to-use-after-effects-for-web-animation-prototypes--cms-21451) (video)
   * [MtMograph summits](http://mtmograph.com/summits/) (video)
-  * Lynda essentional AE (video)
-  * [30 days of AE](http://schoolofmotion.com/project/30dae_01_writeon/)
+  * [30 days of AE](http://schoolofmotion.com/project/30dae_01_writeon/) (video)
+  * [After Effects CC Essential Training on Lynda](http://www.lynda.com/After-Effects-tutorials/After-Effects-CC-Essential-Training/122431-2.html) (video)
 * [Apple Motion](https://www.apple.com/sg/final-cut-pro/motion/)
 * [Adobe Photoshop](http://www.adobe.com/sea/products/photoshop.html)
   * [9 Photoshop UI Animation Tutorials](http://bashooka.com/photoshop/photoshop-ui-animation-tutorials/)
@@ -46,7 +46,7 @@ It’s collection of resources, software, libraries, slides and articles related
 
 ### Visual programming
 * Quartz Composer
-  * [The 4 Minute Guide to Quartz Composer](https://vimeo.com/88468610)
+  * [The 4 Minute Guide to Quartz Composer](https://vimeo.com/88468610) (video)
   * [Introducing Origami for QC](https://medium.com/the-year-of-the-looking-glass/introducing-origami-for-quartz-composer-f1173d0bd181)
   * [Origami](https://facebook.github.io/origami/)
   * [Avocado](https://labs.ideo.com/2014/05/27/avocado/)
@@ -93,7 +93,7 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 
 ### SVG
 * [SnapSVG](http://snapsvg.io/)
-	* http://webdesign.tutsplus.com/articles/how-to-manipulate-and-animate-svg-with-snapsvg--cms-21323
+	* [How to Manipulate and Animate SVG With Snap.svg](http://webdesign.tutsplus.com/articles/how-to-manipulate-and-animate-svg-with-snapsvg--cms-21323)
 * [BonsaiJS](https://bonsaijs.org/)
 * [Vivus.js](http://maxwellito.github.io/vivus/)
 * [Walkway.js](http://connoratherton.com/walkway) – an easy way to animate SVG images consisting of line, path, and polyline elements.
