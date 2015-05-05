@@ -57,6 +57,7 @@ It’s collection of resources, software, libraries, slides and articles related
   * [Your first prototype with framer](https://medium.com/@kennycheny/creating-your-first-prototype-with-framer-c39221da7668)
 * [Tumult Hype](http://tumult.com/hype/)
 * [Adobe Edge Animation](https://creative.adobe.com/products/animate)
+  * [Prototyping UI Animation](https://medium.com/the-thinkmill/prototyping-ui-animation-2fe08e3a7932)
 * [Google web designer](http://www.google.ru/webdesigner/)
 * [Animatron](http://animatron.com/)
 * [Pixate](http://pixate.com/)
@@ -111,6 +112,19 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * http://www.slideshare.net/CrowChick/animation-and-the-future-of-ux-33573726
 * [Designing with animation](https://www.youtube.com/watch?v=TMe0WnkF1Lc&feature=youtu.be&list=UURx1y52pfeMwbuer9Vh2u-A&html5=1) (video)
 * [Animating Web Experiences](https://www.youtube.com/watch?v=66Kf8fMfh1M&list=UURx1y52pfeMwbuer9Vh2u-A&index=47) (video)
+
+## Guidelines
+* Android
+  * [Material design guidelines: Animation](http://www.google.com/design/spec/animation/authentic-motion.html)
+* MacOS
+  * [OS X Human Interface Guidelines: Animation](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/Animation.html#//apple_ref/doc/uid/20000957-CH11-SW1)
+* iOS 
+  * [User Interface Design for iOS 7 Apps](https://developer.apple.com/tech-talks/videos/?id=2) (video)
+  * [iPhoto for iOS: UI Progression and Animation Design](https://developer.apple.com/videos/wwdc/2012/?id=243) (video)
+* Apple Watch
+  * [Specifications: Animations](https://developer.apple.com/watch/human-interface-guidelines/specifications/#animations)
+* Windows
+	* [Guidelines for animations](https://msdn.microsoft.com/en-us/library/windows/apps/dn611854.aspx)
 
 ## Books
 * [The Web In Motion: Practical Considerations For Designing With Animation](https://shop.smashingmagazine.com/products/the-web-in-motion-practical-considerations-for-designing-with-animation)
