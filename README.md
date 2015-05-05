@@ -127,6 +127,6 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 	* [Guidelines for animations](https://msdn.microsoft.com/en-us/library/windows/apps/dn611854.aspx)
 
 ## Books
-* [The Web In Motion: Practical Considerations For Designing With Animation](https://shop.smashingmagazine.com/products/the-web-in-motion-practical-considerations-for-designing-with-animation)
-* [Motion Design for iOS](https://designthencode.com/)
+* [The Web In Motion: Practical Considerations For Designing With Animation](https://shop.smashingmagazine.com/products/the-web-in-motion-practical-considerations-for-designing-with-animation) by Smashing Magazine
+* [Motion Design for iOS](https://designthencode.com/) by Mike Rundle
 
