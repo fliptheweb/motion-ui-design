@@ -90,6 +90,7 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [Famo.us](http://famo.us/)
 * [Processing.js](http://processingjs.org/)
 * [Framer.js](https://github.com/koenbok/Framer)
+* [Dynamics.js](http://dynamicsjs.com/)
 
 ### SVG
 * [SnapSVG](http://snapsvg.io/)
@@ -112,6 +113,7 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * http://www.slideshare.net/CrowChick/animation-and-the-future-of-ux-33573726
 * [Designing with animation](https://www.youtube.com/watch?v=TMe0WnkF1Lc&feature=youtu.be&list=UURx1y52pfeMwbuer9Vh2u-A&html5=1) (video)
 * [Animating Web Experiences](https://www.youtube.com/watch?v=66Kf8fMfh1M&list=UURx1y52pfeMwbuer9Vh2u-A&index=47) (video)
+* [Putting Your UI in Motion (Val Head)](http://aneventapart.com/news/post/putting-your-ui-in-motion-with-css-by-val-head-an-event-apart-video) (video)
 
 ## Guidelines
 * Android
@@ -129,4 +131,4 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 ## Books
 * [The Web In Motion: Practical Considerations For Designing With Animation](https://shop.smashingmagazine.com/products/the-web-in-motion-practical-considerations-for-designing-with-animation) by Smashing Magazine
 * [Motion Design for iOS](https://designthencode.com/) by Mike Rundle
-
+* [Animation in HTML, CSS, and JavaScript](http://www.kirupa.com/book/animation_in_html_css_and_javascript.htm)
