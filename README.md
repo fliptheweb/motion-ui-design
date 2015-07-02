@@ -39,6 +39,7 @@ It’s collection of resources, software, libraries, slides and articles related
   * [MtMograph summits](http://mtmograph.com/summits/) (video)
   * [30 days of AE](http://schoolofmotion.com/project/30dae_01_writeon/) (video)
   * [After Effects CC Essential Training on Lynda](http://www.lynda.com/After-Effects-tutorials/After-Effects-CC-Essential-Training/122431-2.html) (video)
+  * [Converter from AE to SVG/canvas](https://github.com/bodymovin/bodymovin)
 * [Apple Motion](https://www.apple.com/sg/final-cut-pro/motion/)
 * [Adobe Photoshop](http://www.adobe.com/sea/products/photoshop.html)
   * [9 Photoshop UI Animation Tutorials](http://bashooka.com/photoshop/photoshop-ui-animation-tutorials/)
@@ -133,3 +134,4 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [The Web In Motion: Practical Considerations For Designing With Animation](https://shop.smashingmagazine.com/products/the-web-in-motion-practical-considerations-for-designing-with-animation) by Smashing Magazine
 * [Motion Design for iOS](https://designthencode.com/) by Mike Rundle
 * [Animation in HTML, CSS, and JavaScript](http://www.kirupa.com/book/animation_in_html_css_and_javascript.htm)
+* [Futureproof Web Design Techniques. Interaction Design & Complex Animations](http://www.uxpin.com/curated-interaction-design-animations.html) by UXPin
