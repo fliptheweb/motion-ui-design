@@ -129,6 +129,8 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
   * [Specifications: Animations](https://developer.apple.com/watch/human-interface-guidelines/specifications/#animations)
 * Windows
 	* [Guidelines for animations](https://msdn.microsoft.com/en-us/library/windows/apps/dn611854.aspx)
+* IBM
+	* [IBM Design Language – Animation design guidelines] (http://www.ibm.com/design/language/framework/animation/introduction)
 
 ## Books
 * [The Web In Motion: Practical Considerations For Designing With Animation](https://shop.smashingmagazine.com/products/the-web-in-motion-practical-considerations-for-designing-with-animation) by Smashing Magazine
