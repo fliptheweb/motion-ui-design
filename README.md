@@ -17,6 +17,7 @@ It’s collection of resources, software, libraries, slides and articles related
 * [lab.hakim.se](http://lab.hakim.se/)
 * [ui-animations.tumblr.com](http://ui-animations.tumblr.com/)
 * [sixux.com](http://sixux.com/)
+* [UI buttons](http://uibuttons.com/)
 
 ### Pinterest boards
 * [Gestures, transitions, animations](http://pinterest.com/jvetrau/gestures-transitions-animations/) by Yuri Vetrov
