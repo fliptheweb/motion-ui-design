@@ -1,5 +1,25 @@
+
 # Motion UI design. Web UI animations and transitions.
 It’s collection of resources, software, libraries, slides and articles related to motion UI design.
+
+# Title
+1. Resources for inspiration
+	* [Sites](#sites)
+	* [Pinterest boards](#pinterest-boards)
+	* [Processing](#processing-and-other-weird-but-funny-stuff)
+2. Software
+	* [Video, gif, presentation](#video-gif-presentation)
+	* [Visual programming](#visual-programming)
+	* [Html/css/js](#htmlcssjs)
+3. [Helpers](#helpers)
+4. Libraries
+	* [CSS](#css)
+	* [JS](#js)
+	* [SVG](#svg)
+5. [Web animation performance](#web-animation-performance)
+6. [Speeches, presentations, videos](#speeches-presentations-videos)
+7. [Guidelines](#guidelines)
+8. [Books](#books)
 
 ## Resources for inspiration
 ### Sites
@@ -32,8 +52,8 @@ It’s collection of resources, software, libraries, slides and articles related
 * http://dvdp.tumblr.com/
 * http://misha-kvakin.tumblr.com/
 
-## Software for creation
-### Video, gif
+## Software
+### Video, gif, presentation
 * [Adobe After Effects](https://www.adobe.com/products/aftereffects.htm)
   * [Using After Effects for UI Animation Prototypes](https://www.youtube.com/watch?v=w67z1YhPFKM&feature=youtu.be) (video)
   * [How to Use After Effects for Web Animation Prototypes](http://webdesign.tutsplus.com/tutorials/how-to-use-after-effects-for-web-animation-prototypes--cms-21451) (video)
@@ -45,6 +65,8 @@ It’s collection of resources, software, libraries, slides and articles related
 * [Adobe Photoshop](http://www.adobe.com/sea/products/photoshop.html)
   * [9 Photoshop UI Animation Tutorials](http://bashooka.com/photoshop/photoshop-ui-animation-tutorials/)
 * [Adobe Flash](http://www.adobe.com/products/flash.html)
+* [Apple Keynote](https://www.apple.com/ru/mac/keynote/)
+	* [How To Prototype UI Animations In Keynote](http://www.smashingmagazine.com/2015/08/animating-in-keynote/)
 
 ### Visual programming
 * Quartz Composer
@@ -53,6 +75,7 @@ It’s collection of resources, software, libraries, slides and articles related
   * [Origami](https://facebook.github.io/origami/)
   * [Avocado](https://labs.ideo.com/2014/05/27/avocado/)
 * [Form](http://www.relativewave.com/form/)
+* [Principle For Mac](http://principleformac.com/)
 
 ### Html/css/js
 * [Framer studio](https://framerjs.com/)
@@ -60,6 +83,7 @@ It’s collection of resources, software, libraries, slides and articles related
 * [Tumult Hype](http://tumult.com/hype/)
 * [Adobe Edge Animation](https://creative.adobe.com/products/animate)
   * [Prototyping UI Animation](https://medium.com/the-thinkmill/prototyping-ui-animation-2fe08e3a7932)
+* [Project Comet](http://landing.adobe.com/en/na/products/creative-cloud/comet/229818-notifyme.html)
 * [Google web designer](http://www.google.ru/webdesigner/)
 * [Animatron](http://animatron.com/)
 * [Pixate](http://pixate.com/)
@@ -107,16 +131,23 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [How to Create Smoother Animations and Transitions in the Browser](http://blog.teamtreehouse.com/create-smoother-animations-transitions-browser)
 * [CSS animations and transitions performance: looking inside the browser](http://blogs.adobe.com/webplatform/2014/03/18/css-animations-and-transitions-performance/)
 
-## Speeches, presentations, slides
+## Speeches, presentations, videos
 * http://markgeyer.com/pres/interface-animations/
 * http://markgeyer.com/pres/the-art-of-ui-animations/
 * http://ai.github.io/anim2012/ (RU)
 * http://profyclub.ru/docs/188 (RU)
 * http://www.slideshare.net/CrowChick/animation-and-the-future-of-ux-33573726
+* [All The Right Moves](https://vimeo.com/channels/alltherightmoves/) (screencast)
 * [Designing with animation](https://www.youtube.com/watch?v=TMe0WnkF1Lc&feature=youtu.be&list=UURx1y52pfeMwbuer9Vh2u-A&html5=1) (video)
 * [Animating Web Experiences](https://www.youtube.com/watch?v=66Kf8fMfh1M&list=UURx1y52pfeMwbuer9Vh2u-A&index=47) (video)
 * [Putting Your UI in Motion (Val Head)](http://aneventapart.com/news/post/putting-your-ui-in-motion-with-css-by-val-head-an-event-apart-video) (video)
 * [Lets move! (Benjamin De Cock, Stripe)](https://www.youtube.com/watch?v=J6wUmQDQBkw) (video)
+
+## Podcasts
+* [Motion and meaning](http://motionandmeaning.io/) – A podcast about motion for digital designers brought to you by Val Head and Cennydd Bowles.
+
+## Subscriptions
+* [The UI Animation Newsletter](http://valhead.com/newsletter/)
 
 ## Guidelines
 * Android
@@ -137,4 +168,6 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [The Web In Motion: Practical Considerations For Designing With Animation](https://shop.smashingmagazine.com/products/the-web-in-motion-practical-considerations-for-designing-with-animation) by Smashing Magazine
 * [Motion Design for iOS](https://designthencode.com/) by Mike Rundle
 * [Animation in HTML, CSS, and JavaScript](http://www.kirupa.com/book/animation_in_html_css_and_javascript.htm)
-* [Futureproof Web Design Techniques. Interaction Design & Complex Animations](http://www.uxpin.com/curated-interaction-design-animations.html) by UXPin
+* [Futureproof Web Design Techniques. Interaction Design & Complex Animations](http://www.uxpin.com/curated-interaction-design-animations.html) by UXPin  
+* [CSS animations](http://www.fivesimplesteps.com/products/css-animations) by Val Head
+
