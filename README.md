@@ -1,5 +1,9 @@
 
 # Motion UI design. Web UI animations and transitions.
+В этой коллекции я пытался собрать все, что касается моушена в вебе и интерфейсах, в частности.
+Тут вы сможете найти коллекцию ресурсов для вдохновения, приложения с помощью которых вы можете создавать анимацию, js библиотеки, выступления с конференций и многое другое.
+Если вы не увидели тут чего-то фил фри для пул реквестов.
+
 It’s collection of resources, software, libraries, slides and articles related to motion UI design.
 
 # Title
@@ -170,4 +174,6 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [Animation in HTML, CSS, and JavaScript](http://www.kirupa.com/book/animation_in_html_css_and_javascript.htm)
 * [Futureproof Web Design Techniques. Interaction Design & Complex Animations](http://www.uxpin.com/curated-interaction-design-animations.html) by UXPin  
 * [CSS animations](http://www.fivesimplesteps.com/products/css-animations) by Val Head
+
+**Collected with :heart: by Artur Kornakov**
 
