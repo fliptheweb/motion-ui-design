@@ -80,6 +80,7 @@ It’s collection of resources, software, libraries, slides and articles related
   * [Avocado](https://labs.ideo.com/2014/05/27/avocado/)
 * [Form](http://www.relativewave.com/form/)
 * [Principle For Mac](http://principleformac.com/)
+* [Floid](https://floid.io/)
 
 ### Html/css/js
 * [Framer studio](https://framerjs.com/)
@@ -174,6 +175,7 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [Animation in HTML, CSS, and JavaScript](http://www.kirupa.com/book/animation_in_html_css_and_javascript.htm)
 * [Futureproof Web Design Techniques. Interaction Design & Complex Animations](http://www.uxpin.com/curated-interaction-design-animations.html) by UXPin  
 * [CSS animations](http://www.fivesimplesteps.com/products/css-animations) by Val Head
+
 
 **Collected with :heart: by Artur Kornakov**
 
