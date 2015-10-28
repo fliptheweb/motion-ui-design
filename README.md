@@ -142,11 +142,13 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * http://ai.github.io/anim2012/ (RU)
 * http://profyclub.ru/docs/188 (RU)
 * http://www.slideshare.net/CrowChick/animation-and-the-future-of-ux-33573726
+* [Designing Complex SVG Animations (Sarah Drasner, Trulia)](http://slides.com/sdrasner/cssdevconf)
 * [All The Right Moves](https://vimeo.com/channels/alltherightmoves/) (screencast)
 * [Designing with animation](https://www.youtube.com/watch?v=TMe0WnkF1Lc&feature=youtu.be&list=UURx1y52pfeMwbuer9Vh2u-A&html5=1) (video)
 * [Animating Web Experiences](https://www.youtube.com/watch?v=66Kf8fMfh1M&list=UURx1y52pfeMwbuer9Vh2u-A&index=47) (video)
 * [Putting Your UI in Motion (Val Head)](http://aneventapart.com/news/post/putting-your-ui-in-motion-with-css-by-val-head-an-event-apart-video) (video)
 * [Lets move! (Benjamin De Cock, Stripe)](https://www.youtube.com/watch?v=J6wUmQDQBkw) (video)
+
 
 ## Podcasts
 * [Motion and meaning](http://motionandmeaning.io/) – A podcast about motion for digital designers brought to you by Val Head and Cennydd Bowles.
