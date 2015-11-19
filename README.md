@@ -1,9 +1,6 @@
 # Motion UI design. Web UI animations and transitions.
-В этой коллекции я пытался собрать все, что касается моушена в вебе и интерфейсах, в частности.
-Тут вы сможете найти коллекцию ресурсов для вдохновения, приложения с помощью которых вы можете создавать анимацию, js библиотеки, выступления с конференций и многое другое.
-Если вы не увидели тут чего-то фил фри для пул реквестов.
-
-It’s collection of resources, software, libraries, slides and articles related to motion UI design.
+It’s collection of resources, software, libraries, videos and articles related to motion UI design.
+Feel free to add something by pull request!
 
 # Title
 1. Resources for inspiration
@@ -94,24 +91,25 @@ It’s collection of resources, software, libraries, slides and articles related
 * [Pixate](http://pixate.com/)
 * Any HTML/CSS editor, [libraries](#libraries) ;)
 
-And obvious Pen and Paper!
+And obvious your secret weapon – pen and paper!
 
 ## Helpers
-* http://easings.net/
-* http://cubic-bezier.com/
-* http://csstriggers.com/
-* http://rapid-application-development-js.github.io/AnimateTransition/
+* [Easings cheetsheet](http://easings.net/) – easing functions Cheat Sheet;
+* [cubic-bezier.com](http://cubic-bezier.com/) – cubic-bezier visual tool;
+* [csstriggers.com](http://csstriggers.com/) – list of css properties thats trigger repaint, reflow or compositing.
 
 ## Libraries
-Great (but old a little) infographic with libraries by used technology
+Great (but old) infographic with libraries by used technology
 http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-libraries-for-javascript-and-css3-plus-performance-tips.html
 
 ### CSS
 * [Animate.css](http://daneden.github.io/animate.css/) – collections of CSS animations;
 * [Effeckt.css](http://h5bp.github.io/Effeckt.css/) – collections of UI animations;
 * [Bounce.js](http://bouncejs.com/) – tool for generate nice CSS keyframes animation from js easing function;
-* [Animations.css](http://justinaguilar.com/animations/)
-
+* [Animations.css](http://justinaguilar.com/animations/) - collection;
+* [Magic animations](http://www.minimamente.com/example/magic_animations/) – collection;
+* [Hover.css](http://ianlunn.github.io/Hover/) – hover effects;
+* [Morf](http://www.joelambert.co.uk/morf/) – transitions with custom easing functions.
 
 ### JS
 * [GreenSock](http://greensock.com/) – ultra high-performance, professional-grade animation for the modern web;
@@ -123,13 +121,14 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [Processing.js](http://processingjs.org/) – js library for Processing visual programming language;
 * [Framer.js](https://github.com/koenbok/Framer) – prototyping tool for designing UI, interaction and animation;
 * [Dynamics.js](http://dynamicsjs.com/) – JavaScript library to create physics-based animations;
-* [Mo.js](https://github.com/legomushroom/mojs) – motion graphics toolbelt for the web.
+* [Mo.js](https://github.com/legomushroom/mojs) – motion graphics toolbelt for the web;
+* [AnimateTransition](http://rapid-application-development-js.github.io/AnimateTransition/) - library for transition of blocks and popups.
 
 ### SVG
-* [SnapSVG](http://snapsvg.io/)
+* [SnapSVG](http://snapsvg.io/) — js library makes working with your SVG assets as easy as jQuery makes working with the DOM;
 	* [How to Manipulate and Animate SVG With Snap.svg](http://webdesign.tutsplus.com/articles/how-to-manipulate-and-animate-svg-with-snapsvg--cms-21323)
-* [BonsaiJS](https://bonsaijs.org/)
-* [Vivus.js](http://maxwellito.github.io/vivus/)
+* [BonsaiJS](https://bonsaijs.org/) – lightweight graphics library with an intuitive graphics API and an SVG renderer;
+* [Vivus.js](http://maxwellito.github.io/vivus/) – allows you to animate SVGs, giving them the appearence of being drawn;
 * [Walkway.js](http://connoratherton.com/walkway) – an easy way to animate SVG images consisting of line, path, and polyline elements.
 
 ## Web animation performance
@@ -150,7 +149,6 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [Animating Web Experiences](https://www.youtube.com/watch?v=66Kf8fMfh1M&list=UURx1y52pfeMwbuer9Vh2u-A&index=47) (video)
 * [Putting Your UI in Motion (Val Head)](http://aneventapart.com/news/post/putting-your-ui-in-motion-with-css-by-val-head-an-event-apart-video) (video)
 * [Lets move! (Benjamin De Cock, Stripe)](https://www.youtube.com/watch?v=J6wUmQDQBkw) (video)
-
 
 ## Podcasts
 * [Motion and meaning](http://motionandmeaning.io/) – A podcast about motion for digital designers brought to you by Val Head and Cennydd Bowles.
