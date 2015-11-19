@@ -59,6 +59,7 @@ It’s collection of resources, software, libraries, slides and articles related
 ### Video, gif, presentation
 * [Adobe After Effects](https://www.adobe.com/products/aftereffects.htm)
   * [Using After Effects for UI Animation Prototypes](https://www.youtube.com/watch?v=w67z1YhPFKM&feature=youtu.be) (video)
+	* [UI Animation tutorials](https://uxinmotion.net/)
   * [How to Use After Effects for Web Animation Prototypes](http://webdesign.tutsplus.com/tutorials/how-to-use-after-effects-for-web-animation-prototypes--cms-21451) (video)
   * [MtMograph summits](http://mtmograph.com/summits/) (video)
   * [30 days of AE](http://schoolofmotion.com/project/30dae_01_writeon/) (video)
@@ -87,11 +88,11 @@ It’s collection of resources, software, libraries, slides and articles related
 * [Tumult Hype](http://tumult.com/hype/)
 * [Adobe Edge Animation](https://creative.adobe.com/products/animate)
   * [Prototyping UI Animation](https://medium.com/the-thinkmill/prototyping-ui-animation-2fe08e3a7932)
-* [Project Comet](http://landing.adobe.com/en/na/products/creative-cloud/comet/229818-notifyme.html)
+* [Project Comet](http://landing.adobe.com/en/na/products/creative-cloud/comet/229818-notifyme.html) (unrealized yet)
 * [Google web designer](http://www.google.ru/webdesigner/)
 * [Animatron](http://animatron.com/)
 * [Pixate](http://pixate.com/)
-* Any HTML/CSS editor, libraries ;)
+* Any HTML/CSS editor, [libraries](#libraries) ;)
 
 And obvious Pen and Paper!
 
