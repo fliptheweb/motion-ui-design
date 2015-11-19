@@ -1,4 +1,3 @@
-
 # Motion UI design. Web UI animations and transitions.
 В этой коллекции я пытался собрать все, что касается моушена в вебе и интерфейсах, в частности.
 Тут вы сможете найти коллекцию ресурсов для вдохновения, приложения с помощью которых вы можете создавать анимацию, js библиотеки, выступления с конференций и многое другое.
@@ -103,25 +102,27 @@ And obvious Pen and Paper!
 * http://rapid-application-development-js.github.io/AnimateTransition/
 
 ## Libraries
-Great (but old a little) infographic with libraries by used technology 
+Great (but old a little) infographic with libraries by used technology
 http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-libraries-for-javascript-and-css3-plus-performance-tips.html
 
 ### CSS
-* [Animate.css](http://daneden.github.io/animate.css/)
-* [Effeckt.css](http://h5bp.github.io/Effeckt.css/)
+* [Animate.css](http://daneden.github.io/animate.css/) – collections of CSS animations;
+* [Effeckt.css](http://h5bp.github.io/Effeckt.css/) – collections of UI animations;
+* [Bounce.js](http://bouncejs.com/) – tool for generate nice CSS keyframes animation from js easing function;
 * [Animations.css](http://justinaguilar.com/animations/)
 
+
 ### JS
-* [Velocity.js](http://julian.com/research/velocity/)
-* [Impulse](http://impulse.luster.io/)
-* [GreenSock](http://greensock.com/)
-* [AniJS](http://anijs.github.io/)
-* [Snabbt.js](http://daniel-lundin.github.io/snabbt.js/)
-* [Bounce.js](http://bouncejs.com/)
-* [Famo.us](http://famo.us/)
-* [Processing.js](http://processingjs.org/)
-* [Framer.js](https://github.com/koenbok/Framer)
-* [Dynamics.js](http://dynamicsjs.com/)
+* [GreenSock](http://greensock.com/) – ultra high-performance, professional-grade animation for the modern web;
+* [Velocity.js](http://julian.com/research/velocity/) – accelerated JavaScript animation;
+* [Impulse](http://impulse.luster.io/) - high-performance interactions for mobile web;
+* [AniJS](http://anijs.github.io/) – animations by declared data-attributes;
+* [Snabbt.js](http://daniel-lundin.github.io/snabbt.js/) – minimalistic animation library in javascript;
+* [Famo.us](http://famous.org/) – high-performance javascript library for animations & interfaces;
+* [Processing.js](http://processingjs.org/) – js library for Processing visual programming language;
+* [Framer.js](https://github.com/koenbok/Framer) – prototyping tool for designing UI, interaction and animation;
+* [Dynamics.js](http://dynamicsjs.com/) – JavaScript library to create physics-based animations;
+* [Mo.js](https://github.com/legomushroom/mojs) – motion graphics toolbelt for the web.
 
 ### SVG
 * [SnapSVG](http://snapsvg.io/)
@@ -161,7 +162,7 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
   * [Material design guidelines: Animation](http://www.google.com/design/spec/animation/authentic-motion.html)
 * MacOS
   * [OS X Human Interface Guidelines: Animation](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/Animation.html#//apple_ref/doc/uid/20000957-CH11-SW1)
-* iOS 
+* iOS
   * [User Interface Design for iOS 7 Apps](https://developer.apple.com/tech-talks/videos/?id=2) (video)
   * [iPhoto for iOS: UI Progression and Animation Design](https://developer.apple.com/videos/wwdc/2012/?id=243) (video)
 * Apple Watch
@@ -177,7 +178,7 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [Animation in HTML, CSS, and JavaScript](http://www.kirupa.com/book/animation_in_html_css_and_javascript.htm)
 * [Futureproof Web Design Techniques. Interaction Design & Complex Animations](http://www.uxpin.com/curated-interaction-design-animations.html) by UXPin  
 * [CSS animations](http://www.fivesimplesteps.com/products/css-animations) by Val Head
+* [Designing Interface Animations](http://rosenfeldmedia.com/books/designing-interface-animations/) by Val Head (unpublished yet)
 
 
 **Collected with :heart: by Artur Kornakov**
-
