@@ -1,5 +1,5 @@
-# Motion UI design. Web UI animations and transitions.
-It’s collection of resources, software, libraries, videos and articles related to motion UI design.
+# Motion UI design.
+It’s curated collection of resources, software, libraries, videos and articles related to motion UI design & web UI animations and transitions.
 Feel free to add something by pull request!
 
 # Title
@@ -94,7 +94,7 @@ Feel free to add something by pull request!
 And obvious your secret weapon – pen and paper!
 
 ## Helpers
-* [Easings cheetsheet](http://easings.net/) – easing functions Cheat Sheet;
+* [easings.net](http://easings.net/) – easing functions Cheat Sheet;
 * [cubic-bezier.com](http://cubic-bezier.com/) – cubic-bezier visual tool;
 * [csstriggers.com](http://csstriggers.com/) – list of css properties thats trigger repaint, reflow or compositing.
 
@@ -149,6 +149,7 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [Animating Web Experiences](https://www.youtube.com/watch?v=66Kf8fMfh1M&list=UURx1y52pfeMwbuer9Vh2u-A&index=47) (video)
 * [Putting Your UI in Motion (Val Head)](http://aneventapart.com/news/post/putting-your-ui-in-motion-with-css-by-val-head-an-event-apart-video) (video)
 * [Lets move! (Benjamin De Cock, Stripe)](https://www.youtube.com/watch?v=J6wUmQDQBkw) (video)
+* [Animating Your UX (Rachel Nabors)](https://futureinsights-1.wistia.com/medias/k62k980uo7) (video)
 
 ## Podcasts
 * [Motion and meaning](http://motionandmeaning.io/) – A podcast about motion for digital designers brought to you by Val Head and Cennydd Bowles.
@@ -169,15 +170,15 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * Windows
 	* [Guidelines for animations](https://msdn.microsoft.com/en-us/library/windows/apps/dn611854.aspx)
 * IBM
-	* [IBM Design Language – Animation design guidelines] (http://www.ibm.com/design/language/framework/animation/introduction)
+	* [IBM Design Language – Animation design guidelines](http://www.ibm.com/design/language/framework/animation/introduction)
 
 ## Books
 * [The Web In Motion: Practical Considerations For Designing With Animation](https://shop.smashingmagazine.com/products/the-web-in-motion-practical-considerations-for-designing-with-animation) by Smashing Magazine
 * [Motion Design for iOS](https://designthencode.com/) by Mike Rundle
 * [Animation in HTML, CSS, and JavaScript](http://www.kirupa.com/book/animation_in_html_css_and_javascript.htm)
-* [Futureproof Web Design Techniques. Interaction Design & Complex Animations](http://www.uxpin.com/curated-interaction-design-animations.html) by UXPin  
-* [CSS animations](http://www.fivesimplesteps.com/products/css-animations) by Val Head
-* [Designing Interface Animations](http://rosenfeldmedia.com/books/designing-interface-animations/) by Val Head (unpublished yet)
+* [Futureproof Web Design Techniques. Interaction Design & Complex Animations](http://www.uxpin.com/curated-interaction-design-animations.html) by @UXPin
+* [CSS animations](http://www.fivesimplesteps.com/products/css-animations) by @valhead
+* [Designing Interface Animations](http://rosenfeldmedia.com/books/designing-interface-animations/) by @valhead (unpublished yet)
 
 
 **Collected with :heart: by Artur Kornakov**
