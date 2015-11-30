@@ -156,6 +156,7 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 
 ## Subscriptions
 * [The UI Animation Newsletter](http://valhead.com/newsletter/)
+* [Web Animation Weekly](http://webanimationweekly.com/)
 
 ## Guidelines
 * Android
