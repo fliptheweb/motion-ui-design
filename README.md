@@ -1,8 +1,8 @@
-# Motion UI design.
-It’s curated collection of resources, software, libraries, videos and articles related to motion UI design & web UI animations and transitions.
-Feel free to add something by pull request!
+# Motion UI Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+It’s curated collection of resources, software, libraries, videos and articles related to motion UI design, UI animations and transitions.
+Feel free to [add something interesting](contributing.md) by pull request!
 
-# Title
+# Table of Contents
 1. Resources for inspiration
 	* [Sites](#sites)
 	* [Pinterest boards](#pinterest-boards)
@@ -133,10 +133,10 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [Walkway.js](http://connoratherton.com/walkway) – an easy way to animate SVG images consisting of line, path, and polyline elements.
 
 ## Web animation performance
-* [Jankfree.org](http://jankfree.org/) – collection of articles and presentations about browser performance.
-* [High performance animations](http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
-* [How to Create Smoother Animations and Transitions in the Browser](http://blog.teamtreehouse.com/create-smoother-animations-transitions-browser)
-* [CSS animations and transitions performance: looking inside the browser](http://blogs.adobe.com/webplatform/2014/03/18/css-animations-and-transitions-performance/)
+* [Jankfree.org](http://jankfree.org/) – collection of articles and presentations about browser performance;
+* [High performance animations](http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/);
+* [How to Create Smoother Animations and Transitions in the Browser](http://blog.teamtreehouse.com/create-smoother-animations-transitions-browser);
+* [CSS animations and transitions performance: looking inside the browser](http://blogs.adobe.com/webplatform/2014/03/18/css-animations-and-transitions-performance/).
 
 ## Speeches, presentations, videos
 * http://markgeyer.com/pres/interface-animations/
@@ -153,7 +153,7 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [Animating Your UX (Rachel Nabors)](https://futureinsights-1.wistia.com/medias/k62k980uo7) (video)
 
 ## Podcasts
-* [Motion and meaning](http://motionandmeaning.io/) – A podcast about motion for digital designers brought to you by Val Head and Cennydd Bowles.
+* [Motion and meaning](http://motionandmeaning.io/) – A podcast about motion for digital designers brought to you by @valhead and Cennydd Bowles.
 
 ## Subscriptions
 * [The UI Animation Newsletter](http://valhead.com/newsletter/)
@@ -183,5 +183,8 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [CSS animations](http://www.fivesimplesteps.com/products/css-animations) by @valhead
 * [Designing Interface Animations](http://rosenfeldmedia.com/books/designing-interface-animations/) by @valhead (unpublished yet)
 
+## License
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 **Collected with :heart: by Artur Kornakov**
