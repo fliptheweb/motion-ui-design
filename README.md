@@ -10,7 +10,7 @@ Feel free to [add something interesting](contributing.md) by pull request!
 2. Software
 	* [Video, gif, presentation](#video-gif-presentation)
 	* [Visual programming](#visual-programming)
-	* [Html/css/js](#htmlcssjs)
+	* [HTML, CSS and JavaScript](#html-css-and-javascript)
 3. [Helpers](#helpers)
 4. Libraries
 	* [CSS](#css)
@@ -25,13 +25,13 @@ Feel free to [add something interesting](contributing.md) by pull request!
 ### Sites
 * [Tympanus codrops](http://tympanus.net/codrops/)
 * [Codyhouse](http://codyhouse.co/library/)
-* [Dribbble](http://dribbble.com/shots?list=animated)
-* [Codepen](http://codepen.io/)
-* [give-n-go.co](http://give-n-go.co/)
+* [Dribbble](http://dribbble.com/shots?list=animated) – animated shots category on Dribbble;
+* [Codepen](http://codepen.io/) – HTML/CSS/JS sandbox;
+* [give-n-go.co](http://give-n-go.co/) – a curated gallery of Dribbble shots reworked as interactive CodePen pens;
 * [capptivate.co](http://capptivate.co/)
 * [hoverstat.es](http://hoverstat.es/)
 * [useyourinterface.com](http://useyourinterface.com/)
-* [Awwwards](http://awwwards.com/websites/animation/)
+* [Awwwards](http://awwwards.com/websites/animation/) – websites examples of designs with animation;
 * [cssanimation.rocks](http://cssanimation.rocks/)
 * [michaelvillar.com](http://michaelvillar.com/motion/)
 * [lab.hakim.se](http://lab.hakim.se/)
@@ -56,13 +56,13 @@ Feel free to [add something interesting](contributing.md) by pull request!
 ### Video, gif, presentation
 * [Adobe After Effects](https://www.adobe.com/products/aftereffects.htm)
   * [Using After Effects for UI Animation Prototypes](https://www.youtube.com/watch?v=w67z1YhPFKM&feature=youtu.be) (video)
-	* [UI Animation tutorials](https://uxinmotion.net/)
+  * [UI Animation tutorials](https://uxinmotion.net/)
   * [How to Use After Effects for Web Animation Prototypes](http://webdesign.tutsplus.com/tutorials/how-to-use-after-effects-for-web-animation-prototypes--cms-21451) (video)
   * [MtMograph summits](http://mtmograph.com/summits/) (video)
   * [30 days of AE](http://schoolofmotion.com/project/30dae_01_writeon/) (video)
   * [After Effects CC Essential Training on Lynda](http://www.lynda.com/After-Effects-tutorials/After-Effects-CC-Essential-Training/122431-2.html) (video)
   * [BodyMovin – Converter from AE to SVG/canvas](https://github.com/bodymovin/bodymovin)
-	* [Squall – convert from AE to iOS](http://www.marcuseckert.com/squall/)
+  * [Squall – convert from AE to iOS](http://www.marcuseckert.com/squall/)
 * [Apple Motion](https://www.apple.com/sg/final-cut-pro/motion/)
 * [Adobe Photoshop](http://www.adobe.com/sea/products/photoshop.html)
   * [9 Photoshop UI Animation Tutorials](http://bashooka.com/photoshop/photoshop-ui-animation-tutorials/)
@@ -80,7 +80,7 @@ Feel free to [add something interesting](contributing.md) by pull request!
 * [Principle For Mac](http://principleformac.com/)
 * [Floid](https://floid.io/)
 
-### Html/css/js
+### HTML, CSS and JavaScript
 * [Framer studio](https://framerjs.com/)
   * [Your first prototype with framer](https://medium.com/@kennycheny/creating-your-first-prototype-with-framer-c39221da7668)
 * [Tumult Hype](http://tumult.com/hype/)
@@ -95,7 +95,7 @@ Feel free to [add something interesting](contributing.md) by pull request!
 And obvious your secret weapon – pen and paper!
 
 ## Helpers
-* [easings.net](http://easings.net/) – easing functions Cheat Sheet;
+* [easings.net](http://easings.net/) – easing functions cheat sheet;
 * [cubic-bezier.com](http://cubic-bezier.com/) – cubic-bezier visual tool;
 * [csstriggers.com](http://csstriggers.com/) – list of css properties thats trigger repaint, reflow or compositing.
 
@@ -139,21 +139,20 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [CSS animations and transitions performance: looking inside the browser](http://blogs.adobe.com/webplatform/2014/03/18/css-animations-and-transitions-performance/).
 
 ## Speeches, presentations, videos
-* http://markgeyer.com/pres/interface-animations/
-* http://markgeyer.com/pres/the-art-of-ui-animations/
-* http://ai.github.io/anim2012/ (RU)
-* http://profyclub.ru/docs/188 (RU)
-* http://www.slideshare.net/CrowChick/animation-and-the-future-of-ux-33573726
+* [Interface Animations (Mark Geyer)](http://markgeyer.com/pres/interface-animations/) – workshop on BlendConf 2014;
+* [The art of UI animations (Mark Geyer)](http://markgeyer.com/pres/the-art-of-ui-animations/)
+* [The future of UX – Animation on the Brain (Rachel Nabors)](http://www.slideshare.net/CrowChick/animation-and-the-future-of-ux-33573726)
 * [Designing Complex SVG Animations (Sarah Drasner, Trulia)](http://slides.com/sdrasner/cssdevconf)
-* [All The Right Moves](https://vimeo.com/channels/alltherightmoves/) (screencast)
-* [Designing with animation](https://www.youtube.com/watch?v=TMe0WnkF1Lc&feature=youtu.be&list=UURx1y52pfeMwbuer9Vh2u-A&html5=1) (video)
-* [Animating Web Experiences](https://www.youtube.com/watch?v=66Kf8fMfh1M&list=UURx1y52pfeMwbuer9Vh2u-A&index=47) (video)
+* [Designing with animation (Pasquale D'Silva)](https://www.youtube.com/watch?v=TMe0WnkF1Lc&feature=youtu.be&list=UURx1y52pfeMwbuer9Vh2u-A&html5=1) (video)
+* [Animating Web Experiences (John Allsopp)](https://www.youtube.com/watch?v=66Kf8fMfh1M&list=UURx1y52pfeMwbuer9Vh2u-A&index=47) (video)
 * [Putting Your UI in Motion (Val Head)](http://aneventapart.com/news/post/putting-your-ui-in-motion-with-css-by-val-head-an-event-apart-video) (video)
 * [Lets move! (Benjamin De Cock, Stripe)](https://www.youtube.com/watch?v=J6wUmQDQBkw) (video)
 * [Animating Your UX (Rachel Nabors)](https://futureinsights-1.wistia.com/medias/k62k980uo7) (video)
+* [Animations anew - laziness, arrogance and intolerance (Andrey Sitnik)](http://ai.github.io/anim2012/) (Russian language)
 
-## Podcasts
-* [Motion and meaning](http://motionandmeaning.io/) – A podcast about motion for digital designers brought to you by @valhead and Cennydd Bowles.
+## Podcasts, screencasts
+* [Motion and meaning](http://motionandmeaning.io/) – a podcast about motion for digital designers by @valhead and Cennydd Bowles;
+* [All The Right Moves](https://vimeo.com/channels/alltherightmoves/) – animation reviews by @valhead.
 
 ## Subscriptions
 * [The UI Animation Newsletter](http://valhead.com/newsletter/)
