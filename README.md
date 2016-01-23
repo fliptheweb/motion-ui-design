@@ -147,6 +147,7 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [Designing with animation (Pasquale D'Silva)](https://www.youtube.com/watch?v=TMe0WnkF1Lc&feature=youtu.be&list=UURx1y52pfeMwbuer9Vh2u-A&html5=1) (:movie_camera: video);
 * [Animating Web Experiences (John Allsopp)](https://www.youtube.com/watch?v=66Kf8fMfh1M&list=UURx1y52pfeMwbuer9Vh2u-A&index=47) (:movie_camera: video);
 * [Putting Your UI in Motion (Val Head)](http://aneventapart.com/news/post/putting-your-ui-in-motion-with-css-by-val-head-an-event-apart-video) (:movie_camera: video);
+* [Motion design with CSS (Val Head)](https://www.youtube.com/watch?v=TjsXqt-UxLo&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA) (:movie_camera: video);
 * [Lets move! (Benjamin De Cock, Stripe)](https://www.youtube.com/watch?v=J6wUmQDQBkw) (:movie_camera: video);
 * [Animating Your UX (Rachel Nabors)](https://futureinsights-1.wistia.com/medias/k62k980uo7) (:movie_camera: video);
 * [Animations anew - laziness, arrogance and intolerance (Andrey Sitnik)](http://ai.github.io/anim2012/) (:ru: Russian language).
