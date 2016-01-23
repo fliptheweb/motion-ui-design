@@ -23,21 +23,20 @@ Feel free to [add something interesting](contributing.md) by pull request!
 
 ## Resources for inspiration
 ### Sites
-* [Tympanus codrops](http://tympanus.net/codrops/)
-* [Codyhouse](http://codyhouse.co/library/)
+* [Tympanus codrops](http://tympanus.net/codrops/) – interactive demos and experiments;
+* [Codyhouse](http://codyhouse.co/library/) – interactive demos and experiments;
 * [Dribbble](http://dribbble.com/shots?list=animated) – animated shots category on Dribbble;
 * [Codepen](http://codepen.io/) – HTML/CSS/JS sandbox;
-* [give-n-go.co](http://give-n-go.co/) – a curated gallery of Dribbble shots reworked as interactive CodePen pens;
-* [capptivate.co](http://capptivate.co/)
-* [hoverstat.es](http://hoverstat.es/)
-* [useyourinterface.com](http://useyourinterface.com/)
+* [Give ’n’ Go](http://give-n-go.co/) – a curated gallery of Dribbble shots reworked as interactive CodePen pens;
+* [capptivate.co](http://capptivate.co/) – a collection of awesome mobile interfaces;
+* [UYI](http://useyourinterface.com/) – great collection of moving interfaces;
 * [Awwwards](http://awwwards.com/websites/animation/) – websites examples of designs with animation;
-* [cssanimation.rocks](http://cssanimation.rocks/)
-* [michaelvillar.com](http://michaelvillar.com/motion/)
-* [lab.hakim.se](http://lab.hakim.se/)
-* [ui-animations.tumblr.com](http://ui-animations.tumblr.com/)
-* [sixux.com](http://sixux.com/)
-* [UI buttons](http://uibuttons.com/)
+* [cssanimation.rocks](http://cssanimation.rocks/) – CSS animated demos;
+* [michaelvillar.com](http://michaelvillar.com/motion/) – experiments by @michaelvillar (Stripe);
+* [hakim.se](http://hakim.se/) – experiments by @hakimel;
+* [ui-animations.tumblr.com](http://ui-animations.tumblr.com/) – animations in software user interfaces;
+* [sixux.com](http://sixux.com/) – vines with awesome transitions and animations;
+* [hoverstat.es](http://hoverstat.es/) – a collection of interesting web sites curated by Animade studio;
 
 ### Pinterest boards
 * [Gestures, transitions, animations](http://pinterest.com/jvetrau/gestures-transitions-animations/) by Yuri Vetrov
@@ -47,10 +46,10 @@ Feel free to [add something interesting](contributing.md) by pull request!
 * [Motion UI](http://pinterest.com/CodeDesignIO/motion-ui/) by CodeDesign
 
 ### Processing and other weird, but funny stuff
-* http://beesandbombs.tumblr.com/
-* http://patakk.tumblr.com/
-* http://dvdp.tumblr.com/
-* http://misha-kvakin.tumblr.com/
+* [Bees & bombs](http://beesandbombs.tumblr.com/) – processing experiments by Dave Whyte;
+* [PATAKK](http://patakk.tumblr.com/) – processing experiments by Paolo Zagreb;
+* [dvdp](http://dvdp.tumblr.com/) – visual chinatown by davidope;
+* [Misha Kvakin](http://misha-kvakin.tumblr.com/) – Cinema4D and UI experiments;
 
 ## Software
 ### Video, gif, presentation
@@ -109,6 +108,7 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [Bounce.js](http://bouncejs.com/) – tool for generate nice CSS keyframes animation from js easing function;
 * [Animations.css](http://justinaguilar.com/animations/) - collection;
 * [Magic animations](http://www.minimamente.com/example/magic_animations/) – collection;
+* [UI buttons](http://uibuttons.com/) – a collection of buttons;
 * [Hover.css](http://ianlunn.github.io/Hover/) – hover effects;
 * [Morf](http://www.joelambert.co.uk/morf/) – transitions with custom easing functions.
 
