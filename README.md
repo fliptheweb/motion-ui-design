@@ -172,6 +172,7 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
   * [Specifications: Animations](https://developer.apple.com/watch/human-interface-guidelines/specifications/#animations)
 * Windows
 	* [Guidelines for animations](https://msdn.microsoft.com/en-us/library/windows/apps/dn611854.aspx)
+	* [Microsoft web framework: Motion](http://getmwf.com/styles/motion.html)
 * IBM
 	* [IBM Design Language – Animation design guidelines](http://www.ibm.com/design/language/framework/animation/introduction)
 * [SalesForce Lightning](https://www.lightningdesignsystem.com/design/motion/)
