@@ -18,8 +18,9 @@ Feel free to [add something interesting](contributing.md) by pull request!
 	* [SVG](#svg)
 5. [Web animation performance](#web-animation-performance)
 6. [Speeches, presentations, videos](#speeches-presentations-videos)
-7. [Guidelines](#guidelines)
-8. [Books](#books)
+7. [Newsletters, podcasts, screencasts](#newsletters-podcasts-screencasts)
+8. [Guidelines](#guidelines)
+9. [Books](#books)
 
 ## Resources for inspiration
 ### Sites
