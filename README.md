@@ -126,7 +126,8 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [Framer.js](https://github.com/koenbok/Framer) – prototyping tool for designing UI, interaction and animation;
 * [Dynamics.js](http://dynamicsjs.com/) – JavaScript library to create physics-based animations;
 * [Mo.js](https://github.com/legomushroom/mojs) – motion graphics toolbelt for the web;
-* [AnimateTransition](http://rapid-application-development-js.github.io/AnimateTransition/) - library for transition of blocks and popups.
+* [AnimateTransition](http://rapid-application-development-js.github.io/AnimateTransition/) - library for transition of blocks and popups;
+* [Animate Plus](https://github.com/bendc/animateplus) – a CSS and SVG animation library for modern browsers, performant and lightweight (3KB gzipped), making it particularly well-suited for mobile.
 
 ### SVG
 * [SnapSVG](http://snapsvg.io/) — js library makes working with your SVG assets as easy as jQuery makes working with the DOM;
