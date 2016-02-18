@@ -127,7 +127,8 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [Dynamics.js](http://dynamicsjs.com/) – JavaScript library to create physics-based animations;
 * [Mo.js](https://github.com/legomushroom/mojs) – motion graphics toolbelt for the web;
 * [AnimateTransition](http://rapid-application-development-js.github.io/AnimateTransition/) - library for transition of blocks and popups;
-* [Animate Plus](https://github.com/bendc/animateplus) – a CSS and SVG animation library for modern browsers, performant and lightweight (3KB gzipped), making it particularly well-suited for mobile.
+* [Animate Plus](https://github.com/bendc/animateplus) – a CSS and SVG animation library for modern browsers, performant and lightweight (3KB gzipped), making it particularly well-suited for mobile;
+*  [Gravitas.js](https://github.com/iamralpht/gravitas.js) - Super fast physics simulations for JavaScript.
 
 ### SVG
 * [SnapSVG](http://snapsvg.io/) — js library makes working with your SVG assets as easy as jQuery makes working with the DOM;
