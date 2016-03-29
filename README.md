@@ -38,6 +38,7 @@ Feel free to [add something interesting](contributing.md) by pull request!
 * [ui-animations.tumblr.com](http://ui-animations.tumblr.com/) – animations in software user interfaces;
 * [sixux.com](http://sixux.com/) – vines with awesome transitions and animations;
 * [hoverstat.es](http://hoverstat.es/) – a collection of interesting web sites curated by Animade studio;
+* [appealing.](http://app-ealing.com/) – a collection of mobile transitions and animations.
 
 ### Pinterest boards
 * [Gestures, transitions, animations](http://pinterest.com/jvetrau/gestures-transitions-animations/) by Yuri Vetrov;
