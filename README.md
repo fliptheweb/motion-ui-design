@@ -89,7 +89,7 @@ List of all possible software that can produce UI animations separated by using 
 * [Tumult Hype](http://tumult.com/hype/) – MacOS app for creating HTML/CSS sites, banners, presentations etc;
 * [Adobe Edge Animation](https://creative.adobe.com/products/animate) – app for creating HTML/CSS sites, banners, presentations etc:
   * [Prototyping UI Animation](https://medium.com/the-thinkmill/prototyping-ui-animation-2fe08e3a7932);
-* [Project Comet](http://landing.adobe.com/en/na/products/creative-cloud/comet/229818-notifyme.html) – app for creating design, prototype and animation of websites and mobile apps (unrealized yet);
+* [Adobe Experience Design (ex-Project Comet)](http://www.adobe.com/products/experience-design.html) – app for creating design, prototype and animation of websites and mobile apps (Preview version);
 * [Google web designer](https://www.google.com/webdesigner/) – HTML-based designs and motion graphics;
 * [Animatron](http://animatron.com/) – web app for creating animations, banners, and infographics;
 * [Pixate](http://pixate.com/) – prototyping platform;
