@@ -93,6 +93,7 @@ List of all possible software that can produce UI animations separated by using 
 * [Google web designer](https://www.google.com/webdesigner/) – HTML-based designs and motion graphics;
 * [Animatron](http://animatron.com/) – web app for creating animations, banners, and infographics;
 * [Pixate](http://pixate.com/) – prototyping platform;
+* [SpiritJS](https://spiritjs.io/) – animation tool for the web (unrealized yet);
 * Any HTML/CSS editor, [libraries](#libraries) ;)
 
 And obvious your secret weapon – pen and paper!
