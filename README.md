@@ -186,7 +186,7 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [Motion Design for iOS](https://designthencode.com/) by Mike Rundle;
 * [Animation in HTML, CSS, and JavaScript](http://www.kirupa.com/book/animation_in_html_css_and_javascript.htm);
 * [Futureproof Web Design Techniques. Interaction Design & Complex Animations](http://www.uxpin.com/curated-interaction-design-animations.html) by @UXPin;
-* [CSS animations](http://www.fivesimplesteps.com/products/css-animations) by @valhead;
+* [CSS animations](http://cssanimationspocketguide.com/) by @valhead;
 * [Designing Interface Animations](http://rosenfeldmedia.com/books/designing-interface-animations/) by @valhead (unpublished yet).
 
 ## How to Share :star::star::star::star::star:
