@@ -21,6 +21,7 @@ Feel free to [add something interesting](contributing.md) by pull request!
 7. [Newsletters, podcasts, screencasts](#newsletters-podcasts-screencasts)
 8. [Guidelines](#guidelines)
 9. [Books](#books)
+10. [Articles](#articles)
 
 ## Resources for inspiration
 ### Sites
@@ -191,6 +192,9 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [Futureproof Web Design Techniques. Interaction Design & Complex Animations](http://www.uxpin.com/curated-interaction-design-animations.html) by @UXPin;
 * [CSS animations](http://cssanimationspocketguide.com/) by @valhead;
 * [Designing Interface Animations](http://rosenfeldmedia.com/books/designing-interface-animations/) by @valhead (unpublished yet).
+
+## Articles
+* [How fast should your UI animations be?](http://valhead.com/2016/05/05/how-fast-should-your-ui-animations-be/)
 
 ## How to Share :star::star::star::star::star:
 * <a href="https://twitter.com/intent/tweet?text=https://github.com/fliptheweb/motion-ui-design%20Motion%20UI%20Design%20collection" target="_blank">Share on Twitter</a>
