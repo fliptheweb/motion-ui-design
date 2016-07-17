@@ -194,7 +194,7 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [Designing Interface Animations](http://rosenfeldmedia.com/books/designing-interface-animations/) by @valhead (unpublished yet).
 
 ## Articles
-* [How fast should your UI animations be?](http://valhead.com/2016/05/05/how-fast-should-your-ui-animations-be/)
+* [How fast should your UI animations be?](http://valhead.com/2016/05/05/how-fast-should-your-ui-animations-be/) by @valhead.
 
 ## How to Share :star::star::star::star::star:
 * <a href="https://twitter.com/intent/tweet?text=https://github.com/fliptheweb/motion-ui-design%20Motion%20UI%20Design%20collection" target="_blank">Share on Twitter</a>
