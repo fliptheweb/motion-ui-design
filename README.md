@@ -1,6 +1,6 @@
 # Motion UI Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 It’s curated collection of resources, software, libraries, videos and articles related to motion UI design, UI animations and transitions.
-Feel free to [add something interesting](contributing.md) by pull request!
+Feel free to [add something interesting](contributing.md) (todo inside) by pull request!
 
 ## Table of Contents
 1. Resources for inspiration
@@ -204,4 +204,4 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-**Collected with :heart: by Artur Kornakov**
+**Collected with :heart: by Artur Kornakov and [these awesome guys](https://github.com/fliptheweb/motion-ui-design/graphs/contributors)**

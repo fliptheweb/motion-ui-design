@@ -1,5 +1,9 @@
 # Contribution Guidelines
 
+## TODO
+
+- [ ] Most useful articles, step by step to motion design.
+
 ## Adding to this list
 
 Please ensure your pull request adheres to the following guidelines:
