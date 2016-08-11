@@ -7,6 +7,7 @@ Feel free to [add something interesting](contributing.md) (todo inside) by pull 
 	* [Sites](#sites)
 	* [Pinterest boards](#pinterest-boards)
 	* [Processing](#processing-and-other-weird-but-funny-stuff)
+2. [Articles](#articles)
 2. Software
 	* [Video, gif, presentation](#video-gif-presentation)
 	* [Visual programming](#visual-programming)
@@ -21,7 +22,6 @@ Feel free to [add something interesting](contributing.md) (todo inside) by pull 
 7. [Newsletters, podcasts, screencasts](#newsletters-podcasts-screencasts)
 8. [Guidelines](#guidelines)
 9. [Books](#books)
-10. [Articles](#articles)
 
 ## Resources for inspiration
 ### Sites
@@ -54,6 +54,9 @@ Feel free to [add something interesting](contributing.md) (todo inside) by pull 
 * [PATAKK](http://patakk.tumblr.com/) – processing experiments by Paolo Zagreb;
 * [dvdp](http://dvdp.tumblr.com/) – visual chinatown by davidope;
 * [Misha Kvakin](http://misha-kvakin.tumblr.com/) – Cinema4D and UI experiments.
+
+## Articles
+* [How fast should your UI animations be?](http://valhead.com/2016/05/05/how-fast-should-your-ui-animations-be/) by @valhead.
 
 ## Software
 List of all possible software that can produce UI animations separated by using technologies and result format (video, prototype, code etc) with links of must-see tutorials and plugins.
@@ -117,7 +120,11 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [Magic animations](http://www.minimamente.com/example/magic_animations/) – collection;
 * [UI buttons](http://uibuttons.com/) – a collection of buttons;
 * [Hover.css](http://ianlunn.github.io/Hover/) – hover effects;
-* [Morf](http://www.joelambert.co.uk/morf/) – transitions with custom easing functions.
+* [Morf](http://www.joelambert.co.uk/morf/) – transitions with custom easing functions;
+* [Awesome CSS3 animations](http://pavlyukpetr.com/awesome/) – a library of animations;
+* [All Animation](http://all-animation.github.io/) – a set of fun animations to make your project sexier;
+* [CSS Animate](http://cssanimate.com/) – tool for easy and fast creating CSS3 keyframes animation;
+* [Mantra](http://jeremyckahn.github.io/mantra/) – tool for creating keyframes animation.
 
 ### JS
 * [GreenSock](http://greensock.com/) – ultra high-performance, professional-grade animation for the modern web;
@@ -132,14 +139,16 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [Mo.js](https://github.com/legomushroom/mojs) – motion graphics toolbelt for the web;
 * [AnimateTransition](http://rapid-application-development-js.github.io/AnimateTransition/) - library for transition of blocks and popups;
 * [Animate Plus](https://github.com/bendc/animateplus) – a CSS and SVG animation library for modern browsers, performant and lightweight (3KB gzipped), making it particularly well-suited for mobile;
-*  [Gravitas.js](https://github.com/iamralpht/gravitas.js) - Super fast physics simulations for JavaScript.
+* [Gravitas.js](https://github.com/iamralpht/gravitas.js) - super fast physics simulations for JavaScript;
+* [Popmotion](https://popmotion.io/guides/basics/get-started/) – js motion engine that makes creating engaging user interactions quick and simple;
 
 ### SVG
 * [SnapSVG](http://snapsvg.io/) — js library makes working with your SVG assets as easy as jQuery makes working with the DOM;
 	* [How to Manipulate and Animate SVG With Snap.svg](http://webdesign.tutsplus.com/articles/how-to-manipulate-and-animate-svg-with-snapsvg--cms-21323)
 * [BonsaiJS](https://bonsaijs.org/) – lightweight graphics library with an intuitive graphics API and an SVG renderer;
 * [Vivus.js](http://maxwellito.github.io/vivus/) – allows you to animate SVGs, giving them the appearence of being drawn;
-* [Walkway.js](http://connoratherton.com/walkway) – an easy way to animate SVG images consisting of line, path, and polyline elements.
+* [Walkway.js](http://connoratherton.com/walkway) – an easy way to animate SVG images consisting of line, path, and polyline elements;
+* [Transformicons](http://www.transformicons.com/) – animated icons, symbols and buttons using SVG and CSS.
 
 ## Web animation performance
 * [Jankfree.org](http://jankfree.org/) – collection of articles and presentations about browser performance;
@@ -192,9 +201,6 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [Futureproof Web Design Techniques. Interaction Design & Complex Animations](http://www.uxpin.com/curated-interaction-design-animations.html) by @UXPin;
 * [CSS animations](http://cssanimationspocketguide.com/) by @valhead;
 * [Designing Interface Animations](http://rosenfeldmedia.com/books/designing-interface-animations/) by @valhead (unpublished yet).
-
-## Articles
-* [How fast should your UI animations be?](http://valhead.com/2016/05/05/how-fast-should-your-ui-animations-be/) by @valhead.
 
 ## How to Share :star::star::star::star::star:
 * <a href="https://twitter.com/intent/tweet?text=https://github.com/fliptheweb/motion-ui-design%20Motion%20UI%20Design%20collection" target="_blank">Share on Twitter</a>
