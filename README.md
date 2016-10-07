@@ -53,6 +53,7 @@ Feel free to [add something interesting](contributing.md) (todo inside) by pull 
 * [Bees & bombs](http://beesandbombs.tumblr.com/) – processing experiments by Dave Whyte;
 * [PATAKK](http://patakk.tumblr.com/) – processing experiments by Paolo Zagreb;
 * [dvdp](http://dvdp.tumblr.com/) – visual chinatown by davidope;
+* [bigblueboo](http://bigblueboo.tumblr.com/) – 3d and processing experiments by Charlie Deck;
 * [Misha Kvakin](http://misha-kvakin.tumblr.com/) – Cinema4D and UI experiments.
 
 ## Articles
