@@ -170,6 +170,7 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [Styling and Animating Scalable Vector Graphics with CSS (Sara Soueidan)](https://www.youtube.com/watch?v=lf7L8X6ZBu8&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA) (:movie_camera: video);
 * [Animating the User Experience (Rachel Nabors)](https://www.youtube.com/watch?v=bM4qJpg7KhI) (:movie_camera: video);
 * [Designing meaningful animation (Val Head)](https://vimeo.com/165995133) (:movie_camera: video);
+* [Functional Animation (Sarah Drasner)](https://www.youtube.com/watch?v=HaD5z2KqcGk&feature=youtu.be) (:movie_camera: video);
 * [Animations anew - laziness, arrogance and intolerance (Andrey Sitnik)](http://ai.github.io/anim2012/) (:ru: Russian language).
 
 ## Newsletters, podcasts, screencasts
