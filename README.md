@@ -2,7 +2,7 @@
 It’s curated collection of resources, software, libraries, videos and articles related to motion UI design, UI animations and transitions.
 Feel free to [add something interesting](contributing.md) (todo inside) by pull request!
 
-## Table of Contents
+## Contents
 1. Resources for inspiration
 	* [Sites](#sites)
 	* [Pinterest boards](#pinterest-boards)
@@ -15,7 +15,7 @@ Feel free to [add something interesting](contributing.md) (todo inside) by pull 
 3. [Helpers](#helpers)
 4. Libraries
 	* [CSS](#css)
-	* [JS](#js)
+	* [JavaScript](#javascript)
 	* [SVG](#svg)
 5. [Web animation performance](#web-animation-performance)
 6. [Speeches, presentations, videos](#speeches-presentations-videos)
@@ -107,7 +107,7 @@ And obvious your secret weapon – pen and paper!
 ## Helpers
 * [easings.net](http://easings.net/) – easing functions cheat sheet;
 * [cubic-bezier.com](http://cubic-bezier.com/) – cubic-bezier visual tool;
-* [csstriggers.com](http://csstriggers.com/) – list of css properties thats trigger repaint, reflow or compositing.
+* [csstriggers.com](http://csstriggers.com/) – list of CSS properties thats trigger repaint, reflow or compositing.
 
 ## Libraries
 Great (but old) infographic with libraries by used technology
@@ -119,36 +119,36 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [Bounce.js](http://bouncejs.com/) – tool for generate nice CSS keyframes animation from js easing function;
 * [Animations.css](http://justinaguilar.com/animations/) - collection;
 * [Magic animations](http://www.minimamente.com/example/magic_animations/) – collection;
-* [UI buttons](http://uibuttons.com/) – a collection of buttons;
+* [UI buttons](http://uibuttons.com/) – collection of buttons;
 * [Hover.css](http://ianlunn.github.io/Hover/) – hover effects;
 * [Morf](http://www.joelambert.co.uk/morf/) – transitions with custom easing functions;
-* [Awesome CSS3 animations](http://pavlyukpetr.com/awesome/) – a library of animations;
-* [All Animation](http://all-animation.github.io/) – a set of fun animations to make your project sexier;
+* [Awesome CSS3 animations](http://pavlyukpetr.com/awesome/) – library of animations;
+* [All Animation](http://all-animation.github.io/) – set of fun animations to make your project sexier;
 * [CSS Animate](http://cssanimate.com/) – tool for easy and fast creating CSS3 keyframes animation;
 * [Mantra](http://jeremyckahn.github.io/mantra/) – tool for creating keyframes animation.
 
-### JS
+### JavaScript
 * [GreenSock](http://greensock.com/) – ultra high-performance, professional-grade animation for the modern web;
 * [Velocity.js](http://julian.com/research/velocity/) – accelerated JavaScript animation;
 * [Impulse](http://impulse.luster.io/) - high-performance interactions for mobile web;
 * [AniJS](http://anijs.github.io/) – animations by declared data-attributes;
-* [Snabbt.js](http://daniel-lundin.github.io/snabbt.js/) – minimalistic animation library in javascript;
-* [Famo.us](http://famous.org/) – high-performance javascript library for animations & interfaces;
+* [Snabbt.js](http://daniel-lundin.github.io/snabbt.js/) – minimalistic animation library in JavaScript;
+* [Famo.us](http://famous.org/) – high-performance JavaScript library for animations & interfaces;
 * [Processing.js](http://processingjs.org/) – js library for Processing visual programming language;
 * [Framer.js](https://github.com/koenbok/Framer) – prototyping tool for designing UI, interaction and animation;
 * [Dynamics.js](http://dynamicsjs.com/) – JavaScript library to create physics-based animations;
 * [Mo.js](https://github.com/legomushroom/mojs) – motion graphics toolbelt for the web;
 * [AnimateTransition](http://rapid-application-development-js.github.io/AnimateTransition/) - library for transition of blocks and popups;
-* [Animate Plus](https://github.com/bendc/animateplus) – a CSS and SVG animation library for modern browsers, performant and lightweight (3KB gzipped), making it particularly well-suited for mobile;
+* [Animate Plus](https://github.com/bendc/animateplus) – CSS and SVG animation library for modern browsers, performant and lightweight (3KB gzipped), making it particularly well-suited for mobile;
 * [Gravitas.js](https://github.com/iamralpht/gravitas.js) - super fast physics simulations for JavaScript;
 * [Popmotion](https://popmotion.io/guides/basics/get-started/) – js motion engine that makes creating engaging user interactions quick and simple;
 
 ### SVG
 * [SnapSVG](http://snapsvg.io/) — js library makes working with your SVG assets as easy as jQuery makes working with the DOM;
 	* [How to Manipulate and Animate SVG With Snap.svg](http://webdesign.tutsplus.com/articles/how-to-manipulate-and-animate-svg-with-snapsvg--cms-21323)
-* [BonsaiJS](https://bonsaijs.org/) – lightweight graphics library with an intuitive graphics API and an SVG renderer;
+* [BonsaiJS](https://bonsaijs.org/) – lightweight graphics library with intuitive graphics API and SVG renderer;
 * [Vivus.js](http://maxwellito.github.io/vivus/) – allows you to animate SVGs, giving them the appearence of being drawn;
-* [Walkway.js](http://connoratherton.com/walkway) – an easy way to animate SVG images consisting of line, path, and polyline elements;
+* [Walkway.js](http://connoratherton.com/walkway) – easy way to animate SVG images consisting of line, path, and polyline elements;
 * [Transformicons](http://www.transformicons.com/) – animated icons, symbols and buttons using SVG and CSS.
 
 ## Web animation performance
@@ -176,7 +176,7 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 ## Newsletters, podcasts, screencasts
 * [The UI Animation Newsletter](http://valhead.com/newsletter/) – newsletter with resources plus helpful advice on how to make web animation work for you coming straight to your inbox each month by @valhead;
 * [Web Animation Weekly](http://webanimationweekly.com/) – newsletter with articles, videos, book reviews, and other goodies pertaining to the wonderful worlds of web animation and motion design by Rachel Nabors;
-* [Motion and meaning](http://motionandmeaning.io/) – a podcast about motion for digital designers by @valhead and Cennydd Bowles;
+* [Motion and meaning](http://motionandmeaning.io/) – podcast about motion for digital designers by @valhead and Cennydd Bowles;
 * [All The Right Moves](https://vimeo.com/channels/alltherightmoves/) – animation reviews by @valhead.
 
 ## Guidelines
@@ -210,6 +210,6 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 
 ## License
 
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 **Collected with :heart: by Artur Kornakov and [these awesome guys](https://github.com/fliptheweb/motion-ui-design/graphs/contributors)**
