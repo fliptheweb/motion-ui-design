@@ -41,6 +41,8 @@ Feel free to [add something interesting](contributing.md) (todo inside) by pull 
 * [hoverstat.es](http://hoverstat.es/) – a collection of interesting web sites curated by Animade studio;
 * [appealing.](http://app-ealing.com/) – a collection of mobile transitions and animations;
 * [UI Interactions](https://uiinteractions.com/) – UI interactions for your inspiration, every day.
+* [UI movement](https://uimovement.com) - UI design inspirations daily
+* [CollectUI](http://collectui.com) - Inspirations collected from different sources.
 
 ### Pinterest boards
 * [Gestures, transitions, animations](http://pinterest.com/jvetrau/gestures-transitions-animations/) by Yuri Vetrov;
@@ -195,6 +197,7 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * IBM
 	* [IBM Design Language – Animation design guidelines](http://www.ibm.com/design/language/framework/animation/introduction)
 * [SalesForce Lightning](https://www.lightningdesignsystem.com/design/motion/)
+* [Material Motion](https://material-motion.github.io/material-motion/) - Libraries sharing a common API for iOS, Android, and JavaScript using observables.
 
 ## Books
 * [The Web In Motion: Practical Considerations For Designing With Animation](https://shop.smashingmagazine.com/products/the-web-in-motion-practical-considerations-for-designing-with-animation) by Smashing Magazine;
