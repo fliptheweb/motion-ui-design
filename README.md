@@ -143,6 +143,7 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [Animate Plus](https://github.com/bendc/animateplus) – CSS and SVG animation library for modern browsers, performant and lightweight (3KB gzipped), making it particularly well-suited for mobile.
 * [Gravitas.js](https://github.com/iamralpht/gravitas.js) – Super fast physics simulations for JavaScript.
 * [Popmotion](https://popmotion.io/guides/basics/get-started/) – JavaScript motion engine that makes creating engaging user interactions quick and simple.
+* [anime.js](http://animejs.com/) - Lightweight JavaScript animation library.
 
 ### SVG
 * [SnapSVG](http://snapsvg.io/) — JavaScript library makes working with your SVG assets as easy as jQuery makes working with the DOM.
