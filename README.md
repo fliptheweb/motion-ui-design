@@ -42,6 +42,7 @@ Feel free to [add something interesting](contributing.md) (todo inside) by pull 
 * [hoverstat.es](http://hoverstat.es/) – A collection of interesting web sites curated by Animade studio.
 * [appealing.](http://app-ealing.com/) – A collection of mobile transitions and animations.
 * [UI Interactions](https://uiinteractions.com/) – UI interactions for your inspiration, every day.
+* [Uplabs](https://www.uplabs.com/) - Daily Web resources for designers
 
 ### Pinterest boards
 * [Gestures, transitions, animations](http://pinterest.com/jvetrau/gestures-transitions-animations/) by Yuri Vetrov.
