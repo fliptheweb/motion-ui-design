@@ -59,6 +59,17 @@ Feel free to [add something interesting](contributing.md) (todo inside) by pull 
 
 ## Articles
 * [How fast should your UI animations be?](http://valhead.com/2016/05/05/how-fast-should-your-ui-animations-be/) by @valhead.
+* [Getting started with UI motion design](https://medium.com/this-also/getting-started-with-ui-motion-design-d82d4a625801) by @Molly Lafferty.
+* [A Designer’s Guide to Perceived Performance](https://medium.com/@lukejones/a-designers-guide-to-the-perception-of-performance-fedb4bd102b) by @Luke Jones.
+* [How to Use Animation to Improve UX](https://uxplanet.org/how-to-use-animation-to-improve-ux-338819e93bdb) by @Nick Babich.
+* [How To Use Animations and Motion in Web Design](https://blog.prototypr.io/how-to-use-animations-and-motion-in-web-design-2fd1f68e6e02) by @PageCloud
+* [UI Animation: Eye-Pleasing, Problem-Solving](https://uxplanet.org/ui-animation-eye-pleasing-problem-solving-a8b27013f55c) by @Tubik Studio.
+* [UI Motion Design — The Compendium](https://blog.prototypr.io/ui-motion-design-the-compendium-d8b478357fa3) by @Thalion.
+* [Creating Usability with Motion: The UX in Motion Manifesto](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc) by @Issara Willenskomer.
+* [Jedi Principles of UI Animation](https://medium.com/@adaptivepath/jedi-principles-of-ui-animation-2b88423b1dac) @Adaptive Path.
+* [Micro Interaction; great experience for user engagement](https://uxplanet.org/micro-interaction-great-experience-for-user-engagement-b37446bf6306) @Sneha Munot.
+* [UI Animation. Microinteraction for Macroresult](https://uxplanet.org/ui-animation-microinteraction-for-macroresult-668cd9e71101) @Tubik Studio.
+* [The Principles of UX Choreography](https://medium.freecodecamp.org/the-principles-of-ux-choreography-69c91c2cbc2a) @Rebecca Ussai Henderson.
 
 ## Software
 List of all possible software that can produce UI animations separated by using technologies and result format (video, prototype, code etc) with links of must-see tutorials and plugins.
