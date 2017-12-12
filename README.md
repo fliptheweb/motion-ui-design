@@ -122,8 +122,8 @@ And obvious your secret weapon – Pen and paper!
 * [csstriggers.com](http://csstriggers.com/) – List of CSS properties thats trigger repaint, reflow or compositing.
 
 ## Libraries
-Great (but old) infographic with libraries by used technology
-http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-libraries-for-javascript-and-css3-plus-performance-tips.html
+* [Web Animation Infographics](http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-libraries-for-javascript-and-css3-plus-performance-tips.html) – Great (but old) infographic with libraries by used technology.
+* [Bouncy Ball](https://sparkbox.github.io/bouncy-ball/) – Comparing animation techniques by showing how to bounce a ball with each one.
 
 ### CSS
 * [Animate.css](http://daneden.github.io/animate.css/) – Collections of CSS animations.
