@@ -90,6 +90,7 @@ List of all possible software that can produce UI animations separated by using 
 * [Adobe Flash](http://www.adobe.com/products/flash.html) – Software for creating vector graphics, animations, games etc..
 * [Apple Keynote](https://www.apple.com/ru/mac/keynote/) – MacOS app for presentations, but also great for high-fidelity animations and prototypes:
 	* [How To Prototype UI Animations In Keynote](http://www.smashingmagazine.com/2015/08/animating-in-keynote/).
+* [LuaStudio](http://scormpool.com/luastudio) – Free cross-platform software for creating OpenGL based vector graphics, animations, presentations, games etc..	
 
 ### Visual programming
 * [Quartz Composer](https://developer.apple.com/downloads/) – MacOS app with node-based visual programming language for prototyping MacOS/iOS apps:
