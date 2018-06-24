@@ -173,6 +173,7 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [CSS animations and transitions performance: looking inside the browser](http://blogs.adobe.com/webplatform/2014/03/18/css-animations-and-transitions-performance/).
 
 ## Speeches, presentations, videos
+* [Talk: Practical Tips for Great UI Animation with Pablo Stanley, Design Lead at InVision Studio Platform](https://www.awwwards.com/talk-practical-tips-for-great-ui-animation-with-pablo-stanley-lead-designer-invision-studio-platform.html) (:movie_camera: video).
 * [Interface Animations (Mark Geyer)](http://markgeyer.com/pres/interface-animations/) – Workshop on BlendConf 2014.
 * [The future of UX – Animation on the Brain (Rachel Nabors)](http://www.slideshare.net/CrowChick/animation-and-the-future-of-ux-33573726).
 * [Designing Complex SVG Animations (Sarah Drasner, Trulia)](http://slides.com/sdrasner/cssdevconf).
