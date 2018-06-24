@@ -60,6 +60,17 @@ Feel free to [add something interesting](contributing.md) (todo inside) by pull 
 * [Misha Kvakin](http://misha-kvakin.tumblr.com/) – Cinema4D and UI experiments.
 
 ## Articles
+* [Micro-interactions: why, when and how to use them to improve the user experience](https://uxdesign.cc/micro-interactions-why-when-and-how-to-use-them-to-boost-the-ux-17094b3baaa0) by @UX Collective
+* [Dear Ueno: how do you create UX with delightful animations?](https://loremipsum.ueno.co/dear-ueno-how-do-you-create-ux-with-delightful-animations-e3ac8852ccef) by @UENO
+* [Microinterações: qualidade e exclusividade para a sua interface](https://medium.com/ui-lab-school/microintera%C3%A7%C3%B5es-qualidade-e-exclusividade-para-a-sua-interface-31716093e154) by @UI Lab
+* [Sculpting Software Animation](https://medium.com/@pasql/sculpting-software-animation-7d818ddcd40a) by @Pasquale D’Silva
+* [Animation in UI Design: From Concept to Reality](https://uxplanet.org/animation-in-ui-design-from-concept-to-reality-85c49907b19d) by @Tubik Studio
+* [Animated Interactions. Motion on Purpose](https://uxplanet.org/animated-interactions-motion-on-purpose-943bebcaf438) by @Tubik Studio
+* [Transitional Interfaces](https://medium.com/@pasql/transitional-interfaces-926eb80d64e3) by @Pasquale D’Silva
+* [Functionality vs Emotions in Mobile Interface Animation](https://blog.prototypr.io/functionality-vs-emotions-in-mobile-interface-animation-9bce59129ac7) by @Cuberto
+* [How You Can Improve UX with Microinteractions. Part II](https://medium.muz.li/how-you-can-improve-ux-with-microinteractions-part-ii-ffcf739f5bbb) by @Sergey Gladkiy
+* [How You Can Improve UX with Microinteractions. Part I](https://medium.muz.li/how-you-can-improve-ux-with-microinteractions-part-i-73c8dfc01ca3) by @Sergey Gladkiy
+* [UX Design: How to Use Animations in Mobile Applications](https://uxplanet.org/ux-design-how-to-use-animations-in-mobile-applications-a8257ebffe90) by @Tubik Studio
 * [How fast should your UI animations be?](http://valhead.com/2016/05/05/how-fast-should-your-ui-animations-be/) by @valhead.
 * [Getting started with UI motion design](https://medium.com/this-also/getting-started-with-ui-motion-design-d82d4a625801) by @Molly Lafferty.
 * [A Designer’s Guide to Perceived Performance](https://medium.com/@lukejones/a-designers-guide-to-the-perception-of-performance-fedb4bd102b) by @Luke Jones.
