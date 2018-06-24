@@ -60,6 +60,7 @@ Feel free to [add something interesting](contributing.md) (todo inside) by pull 
 * [Misha Kvakin](http://misha-kvakin.tumblr.com/) – Cinema4D and UI experiments.
 
 ## Articles
+* [Interaction Design & Animations](https://desguide.com/wp-content/uploads/Interaction-Design-Complex-Animations.pdf) by @UXPin
 * [Micro-interactions: why, when and how to use them to improve the user experience](https://uxdesign.cc/micro-interactions-why-when-and-how-to-use-them-to-boost-the-ux-17094b3baaa0) by @UX Collective
 * [Dear Ueno: how do you create UX with delightful animations?](https://loremipsum.ueno.co/dear-ueno-how-do-you-create-ux-with-delightful-animations-e3ac8852ccef) by @UENO
 * [Microinterações: qualidade e exclusividade para a sua interface](https://medium.com/ui-lab-school/microintera%C3%A7%C3%B5es-qualidade-e-exclusividade-para-a-sua-interface-31716093e154) by @UI Lab
