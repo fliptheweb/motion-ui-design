@@ -194,7 +194,7 @@ And obvious your secret weapon – Pen and paper!
 
 ## Guidelines
 * Android
-  * [Material design guidelines: Animation](http://www.google.com/design/spec/animation/authentic-motion.html)
+  * [Material design guidelines: Motion](https://material.io/design/motion/)
 * MacOS
   * [OS X Human Interface Guidelines: Animation](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/Animation.html#//apple_ref/doc/uid/20000957-CH11-SW1)
 * iOS
