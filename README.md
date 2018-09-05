@@ -9,6 +9,7 @@ Feel free to [add something interesting](contributing.md) (todo inside) by pull 
 	* [Pinterest boards](#pinterest-boards)
 	* [Processing](#processing-and-other-weird-but-funny-stuff)
 - [Articles](#articles)
+- [Courses](#courses)
 - [Software](#software)
 	* [Video, gif, presentation](#video-gif-presentation)
 	* [Visual programming](#visual-programming)
@@ -59,7 +60,12 @@ Feel free to [add something interesting](contributing.md) (todo inside) by pull 
 * [bigblueboo](http://bigblueboo.tumblr.com/) – 3d and processing experiments by Charlie Deck.
 * [Misha Kvakin](http://misha-kvakin.tumblr.com/) – Cinema4D and UI experiments.
 
+## Courses
+* [UX in motion](http://uxinmotion.net/) (lang en-US)
+* [UX motion design](http://uxmotiondesign.com/) (lang pt-BR)
+
 ## Articles
+* [The ultimate guide to proper use of animation in UX](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9) by @Taras Skytskyi
 * [Interaction Design & Animations](https://desguide.com/wp-content/uploads/Interaction-Design-Complex-Animations.pdf) by @UXPin
 * [Micro-interactions: why, when and how to use them to improve the user experience](https://uxdesign.cc/micro-interactions-why-when-and-how-to-use-them-to-boost-the-ux-17094b3baaa0) by @UX Collective
 * [Dear Ueno: how do you create UX with delightful animations?](https://loremipsum.ueno.co/dear-ueno-how-do-you-create-ux-with-delightful-animations-e3ac8852ccef) by @UENO
@@ -200,6 +206,7 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [Designing meaningful animation (Val Head)](https://vimeo.com/165995133) (:movie_camera: video).
 * [Functional Animation (Sarah Drasner)](https://www.youtube.com/watch?v=HaD5z2KqcGk&feature=youtu.be) (:movie_camera: video).
 * [Animations anew - laziness, arrogance and intolerance (Andrey Sitnik)](http://ai.github.io/anim2012/) (:ru: Russian language).
+* [Getting from A to B - The Art of Interpolation] (Marcus Eckert) (https://vimeo.com/111574737) (:movie_camera: video).
 
 ## Newsletters, podcasts, screencasts
 * [The UI Animation Newsletter](http://valhead.com/newsletter/) – newsletter with resources plus helpful advice on how to make web animation work for you coming straight to your inbox each month by @valhead.
