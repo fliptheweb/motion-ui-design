@@ -42,7 +42,8 @@ Feel free to [add something interesting](contributing.md) (todo inside) by pull 
 * [hoverstat.es](http://hoverstat.es/) – A collection of interesting web sites curated by Animade studio.
 * [appealing.](http://app-ealing.com/) – A collection of mobile transitions and animations.
 * [UI Interactions](https://uiinteractions.com/) – UI interactions for your inspiration, every day.
-
+* [UI Movement](https://uimovement.com/) - Animated interfaces and newsletter.
+ 
 ### Pinterest boards
 * [Gestures, transitions, animations](http://pinterest.com/jvetrau/gestures-transitions-animations/) by Yuri Vetrov.
 * [Web UI animation](http://pinterest.com/JRMYLFBV/web-ui-animation/) by JRMY LFBV.
@@ -191,6 +192,7 @@ And obvious your secret weapon – Pen and paper!
 * [Web Animation Weekly](http://webanimationweekly.com/) – newsletter with articles, videos, book reviews, and other goodies pertaining to the wonderful worlds of web animation and motion design by Rachel Nabors.
 * [Motion and meaning](http://motionandmeaning.io/) – Podcast about motion for digital designers by @valhead and Cennydd Bowles.
 * [All The Right Moves](https://vimeo.com/channels/alltherightmoves/) – Animation reviews by @valhead.
+* [UI Movement](https://uimovement.com/) - best of the week UI animations newsletter.
 
 ## Guidelines
 * Android
