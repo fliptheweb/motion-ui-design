@@ -185,6 +185,7 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [Transformicons](http://www.transformicons.com/) – Animated icons, symbols and buttons using SVG and CSS.
 
 ## Web animation performance
+* [Aerowist - Flip your animations](https://aerotwist.com/blog/flip-your-animations/) - By @Paul Lewis
 * [Browser Rendering Optimization - Udacity course](https://eu.udacity.com/course/browser-rendering-optimization--ud860) – Course to learn building 60 FPS Web Apps.
 * [Jankfree.org](http://jankfree.org/) – Collection of articles and presentations about browser performance.
 * [High performance animations](http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/).
