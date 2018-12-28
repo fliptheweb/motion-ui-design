@@ -65,6 +65,7 @@ Feel free to [add something interesting](contributing.md) (todo inside) by pull 
 * [UX motion design](http://uxmotiondesign.com/) (lang pt-BR)
 
 ## Articles
+* [Animation principles for UX and UI designers](https://uxplanet.org/animation-that-matters-adding-value-to-your-interface-65496fe4c182) by @Vernon Joyce
 * [The ultimate guide to proper use of animation in UX](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9) by @Taras Skytskyi
 * [Interaction Design & Animations](https://desguide.com/wp-content/uploads/Interaction-Design-Complex-Animations.pdf) by @UXPin
 * [Micro-interactions: why, when and how to use them to improve the user experience](https://uxdesign.cc/micro-interactions-why-when-and-how-to-use-them-to-boost-the-ux-17094b3baaa0) by @UX Collective
