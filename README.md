@@ -65,6 +65,7 @@ Feel free to [add something interesting](contributing.md) (todo inside) by pull 
 * [UX motion design](http://uxmotiondesign.com/) (lang pt-BR)
 
 ## Articles
+* [Motion Design Doesn’t Have to be Hard](https://medium.com/google-design/motion-design-doesnt-have-to-be-hard-33089196e6c2) by @Jonas Naimark
 * [Disney’s motion principles in designing interface animations](https://uxplanet.org/disneys-motion-principles-in-designing-interface-animations-9ac7707a2b43) by @Ruthi 
 * [Animation principles for UX and UI designers](https://uxplanet.org/animation-that-matters-adding-value-to-your-interface-65496fe4c182) by @Vernon Joyce
 * [The ultimate guide to proper use of animation in UX](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9) by @Taras Skytskyi
