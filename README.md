@@ -66,6 +66,7 @@ Feel free to [add something interesting](contributing.md) (todo inside) by pull 
 * [UX motion design](http://uxmotiondesign.com/) (lang pt-BR)
 
 ## Articles
+* [How to analyze usability from motion](https://medium.com/ux-in-motion/how-to-analyze-usability-from-motion-a0fef627b4ee) by @Issara Willenskomer
 * [8 things to consider when creating UI animations](https://blog.prototypr.io/8-things-to-consider-when-creating-ui-animations-d2ce9f1f62d) by @Hike One / prototypr.io
 * [Motion Design Doesn’t Have to be Hard](https://medium.com/google-design/motion-design-doesnt-have-to-be-hard-33089196e6c2) by @Jonas Naimark
 * [Disney’s motion principles in designing interface animations](https://uxplanet.org/disneys-motion-principles-in-designing-interface-animations-9ac7707a2b43) by @Ruthi 
