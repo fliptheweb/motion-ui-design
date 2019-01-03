@@ -66,6 +66,7 @@ Feel free to [add something interesting](contributing.md) (todo inside) by pull 
 * [UX motion design](http://uxmotiondesign.com/) (lang pt-BR)
 
 ## Articles
+* [Motion design in digital products: a white paper](https://medium.com/ux-in-motion/motion-design-in-digital-products-a-white-paper-48da834261dd) by @Issara Willenskomer
 * [How to analyze usability from motion](https://medium.com/ux-in-motion/how-to-analyze-usability-from-motion-a0fef627b4ee) by @Issara Willenskomer
 * [8 things to consider when creating UI animations](https://blog.prototypr.io/8-things-to-consider-when-creating-ui-animations-d2ce9f1f62d) by @Hike One / prototypr.io
 * [Motion Design Doesn’t Have to be Hard](https://medium.com/google-design/motion-design-doesnt-have-to-be-hard-33089196e6c2) by @Jonas Naimark
