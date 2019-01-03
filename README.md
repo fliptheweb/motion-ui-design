@@ -45,6 +45,7 @@ Feel free to [add something interesting](contributing.md) (todo inside) by pull 
 * [UI Interactions](https://uiinteractions.com/) – UI interactions for your inspiration, every day.
 * [Uplabs](https://www.uplabs.com/) - Daily Web resources for designers
 * [Muzli](https://medium.muz.li/@usemuzli) - All the design inspiration you need.
+* [UI Movement](https://uimovement.com/) - Animated interfaces and newsletter.
 
 ### Pinterest boards
 * [Gestures, transitions, animations](http://pinterest.com/jvetrau/gestures-transitions-animations/) by Yuri Vetrov.
@@ -145,8 +146,8 @@ And obvious your secret weapon – Pen and paper!
 * [csstriggers.com](http://csstriggers.com/) – List of CSS properties thats trigger repaint, reflow or compositing.
 
 ## Libraries
-Great (but old) infographic with libraries by used technology
-http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-libraries-for-javascript-and-css3-plus-performance-tips.html
+* [Web Animation Infographics](http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-libraries-for-javascript-and-css3-plus-performance-tips.html) – Great (but old) infographic with libraries by used technology.
+* [Bouncy Ball](https://sparkbox.github.io/bouncy-ball/) – Comparing animation techniques by showing how to bounce a ball with each one.
 
 ### CSS
 * [Animate.css](http://daneden.github.io/animate.css/) – Collections of CSS animations.
@@ -218,10 +219,11 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [Web Animation Weekly](http://webanimationweekly.com/) – newsletter with articles, videos, book reviews, and other goodies pertaining to the wonderful worlds of web animation and motion design by Rachel Nabors.
 * [Motion and meaning](http://motionandmeaning.io/) – Podcast about motion for digital designers by @valhead and Cennydd Bowles.
 * [All The Right Moves](https://vimeo.com/channels/alltherightmoves/) – Animation reviews by @valhead.
+* [UI Movement](https://uimovement.com/) - best of the week UI animations newsletter.
 
 ## Guidelines
 * Android
-  * [Material design guidelines: Animation](http://www.google.com/design/spec/animation/authentic-motion.html)
+  * [Material design guidelines: Motion](https://material.io/design/motion/)
 * MacOS
   * [OS X Human Interface Guidelines: Animation](https://developer.apple.com/library/mac/documentation/UserExperience/Conceptual/OSXHIGuidelines/Animation.html#//apple_ref/doc/uid/20000957-CH11-SW1)
 * iOS
