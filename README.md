@@ -192,6 +192,7 @@ And obvious your secret weapon – Pen and paper!
 * [Transformicons](http://www.transformicons.com/) – Animated icons, symbols and buttons using SVG and CSS.
 
 ## Web animation performance
+* [Animating Layouts with the FLIP Technique](https://css-tricks.com/animating-layouts-with-the-flip-technique/) - By @davidkpiano
 * [Aerowist - Flip your animations](https://aerotwist.com/blog/flip-your-animations/) - By @Paul Lewis
 * [Browser Rendering Optimization - Udacity course](https://eu.udacity.com/course/browser-rendering-optimization--ud860) – Course to learn building 60 FPS Web Apps.
 * [Jankfree.org](http://jankfree.org/) – Collection of articles and presentations about browser performance.
