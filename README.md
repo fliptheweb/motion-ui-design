@@ -66,6 +66,7 @@ Feel free to [add something interesting](contributing.md) (todo inside) by pull 
 * [UX motion design](http://uxmotiondesign.com/) (lang pt-BR)
 
 ## Articles
+* [Ultimate Guide to UX Animation](https://uxplanet.org/ultimate-guide-to-ux-animation-f5f7af5a3848) by @Erica Sunarjo
 * [5 steps for including motion design in your system](https://www.designsystems.com/5-steps-for-including-motion-design-in-your-system) by @calebarclay
 * [Motion design in digital products: a white paper](https://medium.com/ux-in-motion/motion-design-in-digital-products-a-white-paper-48da834261dd) by @Issara Willenskomer
 * [How to analyze usability from motion](https://medium.com/ux-in-motion/how-to-analyze-usability-from-motion-a0fef627b4ee) by @Issara Willenskomer
