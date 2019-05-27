@@ -66,6 +66,7 @@ Feel free to [add something interesting](contributing.md) (todo inside) by pull 
 * [UX motion design](http://uxmotiondesign.com/) (lang pt-BR)
 
 ## Articles
+* [Adding value to your design by understanding motion and its tools](https://uxdesign.cc/adding-value-to-your-design-by-understanding-motion-and-its-tools-c06418e43a1b) by Yifan Ding
 * [Animation Handbook - DesignBetter by InVision](https://www.designbetter.co/animation-handbook/) by Ryan McLeod
 * [Ultimate Guide to UX Animation](https://uxplanet.org/ultimate-guide-to-ux-animation-f5f7af5a3848) by @Erica Sunarjo
 * [5 steps for including motion design in your system](https://www.designsystems.com/5-steps-for-including-motion-design-in-your-system) by @calebarclay
