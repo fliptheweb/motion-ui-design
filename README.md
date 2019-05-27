@@ -9,6 +9,7 @@ Feel free to [add something interesting](contributing.md) (todo inside) by pull 
 	* [Pinterest boards](#pinterest-boards)
 	* [Processing](#processing-and-other-weird-but-funny-stuff)
 - [Articles](#articles)
+- [Courses](#courses)
 - [Software](#software)
 	* [Video, gif, presentation](#video-gif-presentation)
 	* [Visual programming](#visual-programming)
@@ -42,8 +43,10 @@ Feel free to [add something interesting](contributing.md) (todo inside) by pull 
 * [hoverstat.es](http://hoverstat.es/) – A collection of interesting web sites curated by Animade studio.
 * [appealing.](http://app-ealing.com/) – A collection of mobile transitions and animations.
 * [UI Interactions](https://uiinteractions.com/) – UI interactions for your inspiration, every day.
+* [Uplabs](https://www.uplabs.com/) - Daily Web resources for designers
+* [Muzli](https://medium.muz.li/@usemuzli) - All the design inspiration you need.
 * [UI Movement](https://uimovement.com/) - Animated interfaces and newsletter.
- 
+
 ### Pinterest boards
 * [Gestures, transitions, animations](http://pinterest.com/jvetrau/gestures-transitions-animations/) by Yuri Vetrov.
 * [Web UI animation](http://pinterest.com/JRMYLFBV/web-ui-animation/) by JRMY LFBV.
@@ -58,7 +61,34 @@ Feel free to [add something interesting](contributing.md) (todo inside) by pull 
 * [bigblueboo](http://bigblueboo.tumblr.com/) – 3d and processing experiments by Charlie Deck.
 * [Misha Kvakin](http://misha-kvakin.tumblr.com/) – Cinema4D and UI experiments.
 
+## Courses
+* [UX in motion](http://uxinmotion.net/) (lang en-US)
+* [UX motion design](http://uxmotiondesign.com/) (lang pt-BR)
+
 ## Articles
+* [Adding value to your design by understanding motion and its tools](https://uxdesign.cc/adding-value-to-your-design-by-understanding-motion-and-its-tools-c06418e43a1b) by Yifan Ding
+* [Animation Handbook - DesignBetter by InVision](https://www.designbetter.co/animation-handbook/) by Ryan McLeod
+* [Ultimate Guide to UX Animation](https://uxplanet.org/ultimate-guide-to-ux-animation-f5f7af5a3848) by @Erica Sunarjo
+* [5 steps for including motion design in your system](https://www.designsystems.com/5-steps-for-including-motion-design-in-your-system) by @calebarclay
+* [Motion design in digital products: a white paper](https://medium.com/ux-in-motion/motion-design-in-digital-products-a-white-paper-48da834261dd) by @Issara Willenskomer
+* [How to analyze usability from motion](https://medium.com/ux-in-motion/how-to-analyze-usability-from-motion-a0fef627b4ee) by @Issara Willenskomer
+* [8 things to consider when creating UI animations](https://blog.prototypr.io/8-things-to-consider-when-creating-ui-animations-d2ce9f1f62d) by @Hike One / prototypr.io
+* [Motion Design Doesn’t Have to be Hard](https://medium.com/google-design/motion-design-doesnt-have-to-be-hard-33089196e6c2) by @Jonas Naimark
+* [Disney’s motion principles in designing interface animations](https://uxplanet.org/disneys-motion-principles-in-designing-interface-animations-9ac7707a2b43) by @Ruthi 
+* [Animation principles for UX and UI designers](https://uxplanet.org/animation-that-matters-adding-value-to-your-interface-65496fe4c182) by @Vernon Joyce
+* [The ultimate guide to proper use of animation in UX](https://uxdesign.cc/the-ultimate-guide-to-proper-use-of-animation-in-ux-10bd98614fa9) by @Taras Skytskyi
+* [Interaction Design & Animations](https://desguide.com/wp-content/uploads/Interaction-Design-Complex-Animations.pdf) by @UXPin
+* [Micro-interactions: why, when and how to use them to improve the user experience](https://uxdesign.cc/micro-interactions-why-when-and-how-to-use-them-to-boost-the-ux-17094b3baaa0) by @UX Collective
+* [Dear Ueno: how do you create UX with delightful animations?](https://loremipsum.ueno.co/dear-ueno-how-do-you-create-ux-with-delightful-animations-e3ac8852ccef) by @UENO
+* [Microinterações: qualidade e exclusividade para a sua interface](https://medium.com/ui-lab-school/microintera%C3%A7%C3%B5es-qualidade-e-exclusividade-para-a-sua-interface-31716093e154) by @UI Lab
+* [Sculpting Software Animation](https://medium.com/@pasql/sculpting-software-animation-7d818ddcd40a) by @Pasquale D’Silva
+* [Animation in UI Design: From Concept to Reality](https://uxplanet.org/animation-in-ui-design-from-concept-to-reality-85c49907b19d) by @Tubik Studio
+* [Animated Interactions. Motion on Purpose](https://uxplanet.org/animated-interactions-motion-on-purpose-943bebcaf438) by @Tubik Studio
+* [Transitional Interfaces](https://medium.com/@pasql/transitional-interfaces-926eb80d64e3) by @Pasquale D’Silva
+* [Functionality vs Emotions in Mobile Interface Animation](https://blog.prototypr.io/functionality-vs-emotions-in-mobile-interface-animation-9bce59129ac7) by @Cuberto
+* [How You Can Improve UX with Microinteractions. Part II](https://medium.muz.li/how-you-can-improve-ux-with-microinteractions-part-ii-ffcf739f5bbb) by @Sergey Gladkiy
+* [How You Can Improve UX with Microinteractions. Part I](https://medium.muz.li/how-you-can-improve-ux-with-microinteractions-part-i-73c8dfc01ca3) by @Sergey Gladkiy
+* [UX Design: How to Use Animations in Mobile Applications](https://uxplanet.org/ux-design-how-to-use-animations-in-mobile-applications-a8257ebffe90) by @Tubik Studio
 * [How fast should your UI animations be?](http://valhead.com/2016/05/05/how-fast-should-your-ui-animations-be/) by @valhead.
 * [Getting started with UI motion design](https://medium.com/this-also/getting-started-with-ui-motion-design-d82d4a625801) by @Molly Lafferty.
 * [A Designer’s Guide to Perceived Performance](https://medium.com/@lukejones/a-designers-guide-to-the-perception-of-performance-fedb4bd102b) by @Luke Jones.
@@ -166,12 +196,17 @@ And obvious your secret weapon – Pen and paper!
 * [Transformicons](http://www.transformicons.com/) – Animated icons, symbols and buttons using SVG and CSS.
 
 ## Web animation performance
+* [Animating Layouts with the FLIP Technique](https://css-tricks.com/animating-layouts-with-the-flip-technique/) - By @davidkpiano
+* [Aerowist - Flip your animations](https://aerotwist.com/blog/flip-your-animations/) - By @Paul Lewis
+* [Browser Rendering Optimization - Udacity course](https://eu.udacity.com/course/browser-rendering-optimization--ud860) – Course to learn building 60 FPS Web Apps.
 * [Jankfree.org](http://jankfree.org/) – Collection of articles and presentations about browser performance.
 * [High performance animations](http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/).
 * [How to Create Smoother Animations and Transitions in the Browser](http://blog.teamtreehouse.com/create-smoother-animations-transitions-browser).
 * [CSS animations and transitions performance: looking inside the browser](http://blogs.adobe.com/webplatform/2014/03/18/css-animations-and-transitions-performance/).
 
 ## Speeches, presentations, videos
+* [Talk: How to Build Meaningful Animations with Louis Ansa, Art Director at makemepulse](https://www.awwwards.com/talk-how-to-build-meaningful-animations-with-louis-ansa-art-director-at-makemepulse.html) (:movie_camera: video).
+* [Talk: Practical Tips for Great UI Animation with Pablo Stanley, Design Lead at InVision Studio Platform](https://www.awwwards.com/talk-practical-tips-for-great-ui-animation-with-pablo-stanley-lead-designer-invision-studio-platform.html) (:movie_camera: video).
 * [Interface Animations (Mark Geyer)](http://markgeyer.com/pres/interface-animations/) – Workshop on BlendConf 2014.
 * [The future of UX – Animation on the Brain (Rachel Nabors)](http://www.slideshare.net/CrowChick/animation-and-the-future-of-ux-33573726).
 * [Designing Complex SVG Animations (Sarah Drasner, Trulia)](http://slides.com/sdrasner/cssdevconf).
@@ -186,6 +221,7 @@ And obvious your secret weapon – Pen and paper!
 * [Designing meaningful animation (Val Head)](https://vimeo.com/165995133) (:movie_camera: video).
 * [Functional Animation (Sarah Drasner)](https://www.youtube.com/watch?v=HaD5z2KqcGk&feature=youtu.be) (:movie_camera: video).
 * [Animations anew - laziness, arrogance and intolerance (Andrey Sitnik)](http://ai.github.io/anim2012/) (:ru: Russian language).
+* [Getting from A to B - The Art of Interpolation] (Marcus Eckert) (https://vimeo.com/111574737) (:movie_camera: video).
 
 ## Newsletters, podcasts, screencasts
 * [The UI Animation Newsletter](http://valhead.com/newsletter/) – newsletter with resources plus helpful advice on how to make web animation work for you coming straight to your inbox each month by @valhead.
