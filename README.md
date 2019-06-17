@@ -32,16 +32,13 @@ Feel free to [add something interesting](contributing.md) (todo inside) by pull 
 * [Codepen](http://codepen.io/) – HTML/CSS/JS sandbox.
 * [Give ’n’ Go](http://give-n-go.co/) – A curated gallery of Dribbble shots reworked as interactive CodePen pens.
 * [capptivate.co](http://capptivate.co/) – A collection of awesome mobile interfaces.
-* [UYI](http://useyourinterface.com/) – Great collection of moving interfaces.
 * [Awwwards](http://awwwards.com/websites/animation/) – Websites examples of designs with animation.
 * [cssanimation.rocks](http://cssanimation.rocks/) – CSS animated demos.
 * [michaelvillar.com](http://michaelvillar.com/motion/) – experiments by @michaelvillar (Stripe).
 * [hakim.se](http://hakim.se/) – Experiments by @hakimel.
 * [ui-animations.tumblr.com](http://ui-animations.tumblr.com/) – Animations in software user interfaces.
-* [sixux.com](http://sixux.com/) – Vines with awesome transitions and animations.
 * [hoverstat.es](http://hoverstat.es/) – A collection of interesting web sites curated by Animade studio.
 * [appealing.](http://app-ealing.com/) – A collection of mobile transitions and animations.
-* [UI Interactions](https://uiinteractions.com/) – UI interactions for your inspiration, every day.
 * [UI Movement](https://uimovement.com/) - Animated interfaces and newsletter.
  
 ### Pinterest boards
