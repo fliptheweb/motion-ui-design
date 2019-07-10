@@ -206,6 +206,7 @@ And obvious your secret weapon – Pen and paper!
 * [CSS animations and transitions performance: looking inside the browser](http://blogs.adobe.com/webplatform/2014/03/18/css-animations-and-transitions-performance/).
 
 ## Speeches, presentations, videos
+* [Purpose and Style: Using Motion with Meaning in Interfaces (Val Head)](https://youtu.be/RyupSSOtBww) (:movie_camera: video).
 * [Talk: How to Build Meaningful Animations with Louis Ansa, Art Director at makemepulse](https://www.awwwards.com/talk-how-to-build-meaningful-animations-with-louis-ansa-art-director-at-makemepulse.html) (:movie_camera: video).
 * [Talk: Practical Tips for Great UI Animation with Pablo Stanley, Design Lead at InVision Studio Platform](https://www.awwwards.com/talk-practical-tips-for-great-ui-animation-with-pablo-stanley-lead-designer-invision-studio-platform.html) (:movie_camera: video).
 * [Interface Animations (Mark Geyer)](http://markgeyer.com/pres/interface-animations/) – Workshop on BlendConf 2014.
