@@ -71,6 +71,7 @@ Feel free to [add something interesting](contributing.md) (todo inside) by pull 
 
 ## Articles
 
+- [The Role of Animation and Motion in UX](https://www.nngroup.com/articles/animation-purpose-ux/) by Page Laubheimer
 - [Animation principles in UI](https://www.invisionapp.com/inside-design/animation-principles-in-ui/) by Adam Fry-Pierce & Brittany Layton
 - [The Designer’s Guide to Adding Animation in UX Design](https://www.uxbooth.com/articles/the-designers-guide-to-adding-animation-in-ux-design/) by Jolina Landicho
 - [Adding value to your design by understanding motion and its tools](https://uxdesign.cc/adding-value-to-your-design-by-understanding-motion-and-its-tools-c06418e43a1b) by Yifan Ding
