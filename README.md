@@ -270,6 +270,7 @@ And obvious your secret weapon – Pen and paper!
 
 ## Books
 
+- [Microinteractions](https://www.amazon.com/dp/1491945923) by Dan Saffer.
 - [The Web In Motion: Practical Considerations For Designing With Animation](https://shop.smashingmagazine.com/products/the-web-in-motion-practical-considerations-for-designing-with-animation) by Smashing Magazine.
 - [Motion Design for iOS](https://designthencode.com/) by Mike Rundle.
 - [Animation in HTML, CSS, and JavaScript](http://www.kirupa.com/book/animation_in_html_css_and_javascript.htm).
