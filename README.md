@@ -213,8 +213,11 @@ And obvious your secret weapon – Pen and paper!
 
 ## Web animation performance
 
+- [Improving Website Performance with CSS Containment by Manuel Rego | CSSconf EU 2019](https://youtu.be/iqcO-5_KkJ4) - By @regocas (:movie_camera: video)
+- [Martin Splitt: A visual guide of rendering performance](https://youtu.be/pCIe8gMv5oY) - By @g33konaut (:movie_camera: video)
+- [Web Performance Mini Series: Animations](https://www.youtube.com/watch?v=ohc8ejzSn48) - By @aerotwist (:movie_camera: video)
 - [Animating Layouts with the FLIP Technique](https://css-tricks.com/animating-layouts-with-the-flip-technique/) - By @davidkpiano
-- [Aerowist - Flip your animations](https://aerotwist.com/blog/flip-your-animations/) - By @Paul Lewis
+- [Aerowist - Flip your animations](https://aerotwist.com/blog/flip-your-animations/) - By @aerotwist
 - [Browser Rendering Optimization - Udacity course](https://eu.udacity.com/course/browser-rendering-optimization--ud860) – Course to learn building 60 FPS Web Apps.
 - [Jankfree.org](http://jankfree.org/) – Collection of articles and presentations about browser performance.
 - [High performance animations](http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/).
