@@ -71,6 +71,7 @@ Feel free to [add something interesting](contributing.md) (todo inside) by pull 
 
 ## Articles
 
+- [The 10 Principles of Motion Design](https://blog.vmgstudios.com/10-principles-motion-design) by Adam Crawford
 - [Executing UX Animations: Duration and Motion Characteristics](https://www.nngroup.com/articles/animation-duration/) by Page Laubheimer
 - [The Role of Animation and Motion in UX](https://www.nngroup.com/articles/animation-purpose-ux/) by Page Laubheimer
 - [Animation principles in UI](https://www.invisionapp.com/inside-design/animation-principles-in-ui/) by Adam Fry-Pierce & Brittany Layton
