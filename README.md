@@ -153,6 +153,7 @@ And obvious your secret weapon – Pen and paper!
 * [Gravitas.js](https://github.com/iamralpht/gravitas.js) – Super fast physics simulations for JavaScript.
 * [Popmotion](https://popmotion.io/guides/basics/get-started/) – JavaScript motion engine that makes creating engaging user interactions quick and simple.
 * [anime.js](http://animejs.com/) - Lightweight JavaScript animation library.
+* [useAnimations](https://useanimations.com/) - micro-animations icon library;
 
 ### SVG
 * [SnapSVG](http://snapsvg.io/) — JavaScript library makes working with your SVG assets as easy as jQuery makes working with the DOM.
