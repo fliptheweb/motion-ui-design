@@ -66,6 +66,7 @@ Feel free to [add something interesting](contributing.md) (todo inside) by pull 
 
 ## Courses
 
+- [Design meaningful experiences through an animation system by Louis Ansa](https://www.awwwards.com/academy/course/design-meaningful-experiences-through-an-animation-system) (lang en-US)
 - [Using motion design to animate with purpose and create delightful experiences by Louis Paquet](https://www.awwwards.com/academy/course/using-motion-design-to-animate-with-purpose-and-create-delightful-experiences-online-course) (lang en-US)
 - [UX in motion](http://uxinmotion.net/) (lang en-US)
 - [UX motion design](http://uxmotiondesign.com/) (lang pt-BR)
