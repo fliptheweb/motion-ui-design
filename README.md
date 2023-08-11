@@ -229,6 +229,7 @@ And obvious your secret weapon – Pen and paper!
 
 ## Speeches, presentations, videos
 
+- [Designing Fluid Interfaces (Apple)](https://developer.apple.com/videos/play/wwdc2018/803/) (:movie_camera: video).
 - [Designing With Motion (Val Head)](https://vimeo.com/362130759) (:movie_camera: video).
 - [Purpose and Style: Using Motion with Meaning in Interfaces (Val Head)](https://youtu.be/RyupSSOtBww) (:movie_camera: video).
 - [Talk: How to Build Meaningful Animations with Louis Ansa, Art Director at makemepulse](https://www.awwwards.com/talk-how-to-build-meaningful-animations-with-louis-ansa-art-director-at-makemepulse.html) (:movie_camera: video).
