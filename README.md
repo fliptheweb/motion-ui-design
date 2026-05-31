@@ -108,6 +108,7 @@ And, of course, your secret weapon — pen and paper!
 * [easings.net](http://easings.net/) – Easing functions cheat sheet.
 * [cubic-bezier.com](http://cubic-bezier.com/) – Cubic-bezier visual tool.
 * [csstriggers.com](http://csstriggers.com/) – List of CSS properties that trigger repaint, reflow, or compositing.
+* [IconKing](https://iconking.net) – Free browser-based Lottie animation previewer, color editor, and `.json` ↔ `.lottie` format converter. No account needed.
 
 ## Libraries
 * [Web Animation Infographics](http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-libraries-for-javascript-and-css3-plus-performance-tips.html) – Great (but old) infographic with libraries by used technology.
