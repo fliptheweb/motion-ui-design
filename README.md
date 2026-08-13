@@ -183,6 +183,8 @@ And, of course, your secret weapon — pen and paper!
 * Windows
 	* [Motion in Windows apps](https://learn.microsoft.com/en-us/windows/apps/design/signature-experiences/motion)
 
+* [Vibe Coding UI Specification](https://horizonx.so/resources/vibe-coding-ui-specification) – Vendor-neutral contract for named motion durations, easing, safe properties and reduced-motion behavior in AI-assisted interfaces.
+
 ## Books
 * [Animation in HTML, CSS, and JavaScript](http://www.kirupa.com/book/animation_in_html_css_and_javascript.htm).
 * [Futureproof Web Design Techniques. Interaction Design & Complex Animations](http://www.uxpin.com/curated-interaction-design-animations.html) by @UXPin.
