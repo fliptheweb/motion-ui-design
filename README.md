@@ -64,6 +64,7 @@ Feel free to [add something interesting](contributing.md) (todo inside) by pull 
 * [Micro Interaction; great experience for user engagement](https://uxplanet.org/micro-interaction-great-experience-for-user-engagement-b37446bf6306) by @Sneha Munot.
 * [UI Animation. Microinteraction for Macroresult](https://uxplanet.org/ui-animation-microinteraction-for-macroresult-668cd9e71101) by @Tubik Studio.
 * [The Principles of UX Choreography](https://medium.freecodecamp.org/the-principles-of-ux-choreography-69c91c2cbc2a) by @Rebecca Ussai Henderson.
+* [Animate With Code: HyperFrames](https://sidheart.gumroad.com/l/lyudd) by @Sid Heart.
 
 ## Software
 Software for producing UI animations, grouped by technology and output format (video, prototype, code, etc.) — with links to must-see tutorials and plugins.
